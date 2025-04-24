@@ -10,7 +10,7 @@ G = [7, 19, 31, 43, 55, 67, 79, 91, 103, 115, 127]
 dorian = [B, E]
 phrygian = [B, E, A, D]
 lydian = [F]
-mixolydian [B]
+mixolydian = [B]
 aeolian = [B, E, A]
 locrian = [B, E, A, D, G]
 
@@ -47,19 +47,19 @@ for pos in csv_midi: #always adds 1 to pos every time it loops, this looks for N
     if (mode == 2): # lower B E
         if csv_midi[pos] in dorian:
             csv_midi[pos] = csv_midi[pos] - 1
-    else if (mode == 3): # lower B E A D
+    elif (mode == 3): # lower B E A D
         if csv_midi[pos] in phrygian:
             csv_midi[pos] = csv_midi[pos] - 1
-    else if (mode == 4): #raise F
+    elif (mode == 4): #raise F
         if csv_midi[pos] in lydian:
             csv_midi[pos] = csv_midi[pos] + 1
-    else if (mode == 5): #lower B
+    elif (mode == 5): #lower B
         if csv_midi[pos] in mixolydian:
             csv_midi[pos] = csv_midi[pos] - 1
-    else if (mode == 6): #lower B E A
+    elif (mode == 6): #lower B E A
         if csv_midi[pos] in aeolian:
             csv_midi[pos] = csv_midi[pos] - 1
-    else if (mode == 7): #lower B E A D G
+    elif (mode == 7): #lower B E A D G
         if csv_midi[pos] in locrian:
             csv_midi[pos] = csv_midi[pos] - 1
 
