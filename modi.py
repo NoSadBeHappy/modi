@@ -15,6 +15,7 @@ aeolian = [B, E, A]
 locrian = [B, E, A, D, G]
 
 #midi info: https://www.music.mcgill.ca/~ich/classes/mumt306/StandardMIDIfileformat.html
+#modes: https://en.wikipedia.org/wiki/Mode_(music)
 
 # Load the MIDI file and parse it into CSV format
 csv_midi = pm.midi_to_csv("example.mid")
@@ -63,18 +64,6 @@ for pos in csv_midi: #always adds 1 to pos every time it loops, this looks for N
             csv_midi[pos] = csv_midi[pos] - 1
 
     csv_midi[pos] = csv_midi[pos] + KeySignature #get back to real key at the end
-
-
-
-
-#REMEMBER TO COPY THIS FOR Notes_off_c AS WELL!!
-
-#convert to major if in minor by +1 from all the E, A, and B numbers.
-#convert to desired mode
-#add key signature to get back to the right key
-
-
-
 
 # Parse the CSV output of the previous command back into a MIDI file
 midi_object = pm.csv_to_midi(csv_string_list)
