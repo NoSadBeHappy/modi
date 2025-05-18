@@ -29,9 +29,16 @@ with open("example_converted.csv", "w") as f:
 list_csv_midi = list(csv.reader(csv_midi, delimiter=","))
 
 
+#flatten list: https://stackoverflow.com/questions/952914/how-do-i-make-a-flat-list-out-of-a-list-of-lists
+#only used for extracting key signature
+flat_list_csv_midi = [
+    x
+    for xs in list_csv_midi
+    for x in xs
+]
 #subtract the key signature number from all note numbers in colum e get to C. (record this value in a var)
 
-KeySignature = int(list_csv_midi[list_csv_midi.index( ' Key_signature') + 1])
+KeySignature = int(flat_list_csv_midi[flat_list_csv_midi.index( ' Key_signature') + 1])
 
 pos = int(0)
 
@@ -42,7 +49,7 @@ print (pos)
 for line in list_csv_midi:
     for pos in line: #always adds 1 to pos every time it loops, this looks for Note_on_c and WILL LOOK FOR Note_off_c
         print (pos)
-        if (list_csv_midi[line][int(float(pos))] == " Note_on_c"):
+        if (list_csv_midi[int(line)][int(float(pos))] == " Note_on_c"):
             #pos is now the position where the int we need to change is
             pos = pos + 2
             list_csv_midi[line][int(float(pos))] = int(list_csv_midi[line][int(float(pos))]) - KeySignature #go to c temperarly to more easily change mode
