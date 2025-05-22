@@ -1,1501 +1,762 @@
-0, 0, Header, 1, 2, 480
+0, 0, Header, 1, 3, 480
 1, 0, Start_track
 1, 0, Title_t, "Women"
-1, 0, Time_signature, 4, 2, 24, 8
 1, 0, Key_signature, 0, "major"
+1, 0, Time_signature, 4, 2, 24, 8
 1, 0, Tempo, 500000
-1, 0, Control_c, 0,121, 0
-1, 0, Control_c, 0,99, 0
-1, 0, Control_c, 0,101, 0
-1, 0, Control_c, 0,6, 12
-1, 0, Control_c, 0,99, 127
-1, 0, Control_c, 0,101, 127
-1, 0, Program_c, 0, 52
-1, 0, Control_c, 0,7, 100
-1, 0, Control_c, 0,10, 64
-1, 0, Control_c, 0,91, 0
-1, 0, Control_c, 0,92, 0
-1, 0, MIDI_port, 0
-1, 0, Control_c, 1,121, 0
-1, 0, Control_c, 1,99, 0
-1, 0, Control_c, 1,101, 0
-1, 0, Control_c, 1,6, 12
-1, 0, Control_c, 1,99, 127
-1, 0, Control_c, 1,101, 127
-1, 0, Program_c, 1, 52
-1, 0, Control_c, 1,7, 100
-1, 0, Control_c, 1,10, 64
-1, 0, Control_c, 1,91, 0
-1, 0, Control_c, 1,92, 0
-1, 0, MIDI_port, 0
-1, 1680, Note_on_c, 0,60, 80
-1, 1680, Control_c, 0,2, 80
-1, 1680, Lyric_t, "All"
-1, 1799, Note_on_c, 0,60, 0
-1, 1800, Note_on_c, 0,62, 80
-1, 1800, Control_c, 0,2, 80
-1, 1800, Lyric_t, "my"
-1, 1919, Note_on_c, 0,62, 0
-1, 1920, Note_on_c, 0,63, 80
-1, 1920, Control_c, 0,2, 80
-1, 1920, Lyric_t, "life"
-1, 2159, Note_on_c, 0,63, 0
-1, 2160, Note_on_c, 0,67, 80
-1, 2160, Control_c, 0,2, 80
-1, 2160, Lyric_t, "has"
-1, 2399, Note_on_c, 0,67, 0
-1, 2400, Note_on_c, 0,67, 80
-1, 2400, Control_c, 0,2, 80
-1, 2400, Lyric_t, "been"
-1, 2639, Note_on_c, 0,67, 0
-1, 2640, Note_on_c, 0,63, 80
-1, 2640, Control_c, 0,2, 80
-1, 2640, Lyric_t, "a"
-1, 2879, Note_on_c, 0,63, 0
-1, 2880, Note_on_c, 0,68, 80
-1, 2880, Control_c, 0,2, 80
-1, 2880, Lyric_t, "ser"
-1, 3119, Note_on_c, 0,68, 0
-1, 3120, Note_on_c, 0,60, 80
-1, 3120, Control_c, 0,2, 80
-1, 3120, Lyric_t, "ies"
-1, 3359, Note_on_c, 0,60, 0
-1, 3360, Note_on_c, 0,63, 80
-1, 3360, Control_c, 0,2, 80
-1, 3360, Lyric_t, "of"
-1, 3599, Note_on_c, 0,63, 0
-1, 3600, Note_on_c, 0,62, 80
-1, 3600, Control_c, 0,2, 80
-1, 3600, Lyric_t, "doors"
-1, 3839, Note_on_c, 0,62, 0
-1, 3840, Note_on_c, 0,62, 80
-1, 3840, Control_c, 0,2, 80
-1, 4079, Note_on_c, 0,62, 0
-1, 4080, Note_on_c, 0,60, 80
-1, 4080, Control_c, 0,2, 80
-1, 4080, Lyric_t, "in"
-1, 4319, Note_on_c, 0,60, 0
-1, 4320, Note_on_c, 0,56, 80
-1, 4320, Control_c, 0,2, 80
-1, 4320, Lyric_t, "my"
-1, 4559, Note_on_c, 0,56, 0
-1, 4560, Note_on_c, 0,55, 80
-1, 4560, Control_c, 0,2, 80
-1, 4560, Lyric_t, "face,
-1, 4799, Note_on_c, 0, 55, 0
-1, 5400, Note_on_c, 0, 60, 80
-1, 5400, Control_c, 0, 2, 80
-1, 5400, Lyric_t, and"
-1, 5519, Note_on_c, 0,60, 0
-1, 5520, Note_on_c, 0,62, 80
-1, 5520, Control_c, 0,2, 80
-1, 5520, Lyric_t, "then"
-1, 5759, Note_on_c, 0,62, 0
-1, 5760, Note_on_c, 0,63, 80
-1, 5760, Control_c, 0,2, 80
-1, 5760, Lyric_t, "sud"
-1, 5879, Note_on_c, 0,63, 0
-1, 5880, Note_on_c, 0,63, 80
-1, 5880, Control_c, 0,2, 80
-1, 5880, Lyric_t, "den"
-1, 5999, Note_on_c, 0,63, 0
-1, 6000, Note_on_c, 0,67, 80
-1, 6000, Control_c, 0,2, 80
-1, 6000, Lyric_t, "ly"
-1, 6239, Note_on_c, 0,67, 0
-1, 6240, Note_on_c, 0,63, 80
-1, 6240, Control_c, 0,2, 80
-1, 6240, Lyric_t, "I"
-1, 6479, Note_on_c, 0,63, 0
-1, 6480, Note_on_c, 0,62, 80
-1, 6480, Control_c, 0,2, 80
-1, 6480, Lyric_t, "bump"
-1, 6719, Note_on_c, 0,62, 0
-1, 6720, Note_on_c, 0,60, 80
-1, 6720, Control_c, 0,2, 80
-1, 6720, Lyric_t, "in"
-1, 6959, Note_on_c, 0,60, 0
-1, 6960, Note_on_c, 0,56, 80
-1, 6960, Control_c, 0,2, 80
-1, 6960, Lyric_t, "to"
-1, 7199, Note_on_c, 0,56, 0
-1, 7200, Note_on_c, 0,62, 80
-1, 7200, Control_c, 0,2, 80
-1, 7200, Lyric_t, "you."
-1, 7679, Note_on_c, 0,62, 0
-1, 7680, Note_on_c, 0,62, 80
-1, 7680, Control_c, 0,2, 80
-1, 8159, Note_on_c, 0,62, 0
-1, 16560, Note_on_c, 0,60, 80
-1, 16560, Control_c, 0,2, 80
-1, 16560, Lyric_t, "But"
-1, 16799, Note_on_c, 0,60, 0
-1, 16800, Note_on_c, 0,60, 80
-1, 16800, Control_c, 0,2, 80
-1, 16800, Lyric_t, "with"
-1, 17039, Note_on_c, 0,60, 0
-1, 17040, Note_on_c, 0,68, 80
-1, 17040, Control_c, 0,2, 80
-1, 17040, Lyric_t, "you"
-1, 17279, Note_on_c, 0,68, 0
-1, 17280, Note_on_c, 0,68, 80
-1, 17280, Control_c, 0,2, 80
-1, 19199, Note_on_c, 0,68, 0
-1, 19440, Note_on_c, 0,67, 80
-1, 19440, Control_c, 0,2, 80
-1, 19440, Lyric_t, "I"
-1, 19679, Note_on_c, 0,67, 0
-1, 19680, Note_on_c, 0,63, 80
-1, 19680, Control_c, 0,2, 80
-1, 19680, Lyric_t, "see"
-1, 19919, Note_on_c, 0,63, 0
-1, 19920, Note_on_c, 0,60, 80
-1, 19920, Control_c, 0,2, 80
-1, 19920, Lyric_t, "your"
-1, 20159, Note_on_c, 0,60, 0
-1, 20160, Note_on_c, 0,58, 80
-1, 20160, Control_c, 0,2, 80
-1, 20160, Lyric_t, "face"
-1, 20399, Note_on_c, 0,58, 0
-1, 20760, Note_on_c, 0,60, 80
-1, 20760, Control_c, 0,2, 80
-1, 20760, Lyric_t, "and"
-1, 20879, Note_on_c, 0,60, 0
-1, 20880, Note_on_c, 0,60, 80
-1, 20880, Control_c, 0,2, 80
-1, 20880, Lyric_t, "it's"
-1, 21119, Note_on_c, 0,60, 0
-1, 21120, Note_on_c, 0,62, 80
-1, 21120, Control_c, 0,2, 80
-1, 21120, Lyric_t, "noth"
-1, 21239, Note_on_c, 0,62, 0
-1, 21240, Note_on_c, 0,62, 80
-1, 21240, Control_c, 0,2, 80
-1, 21240, Lyric_t, "in'"
-1, 21359, Note_on_c, 0,62, 0
-1, 21360, Note_on_c, 0,62, 80
-1, 21360, Control_c, 0,2, 80
-1, 21360, Lyric_t, "like"
-1, 21599, Note_on_c, 0,62, 0
-1, 21600, Note_on_c, 0,62, 80
-1, 21600, Control_c, 0,2, 80
-1, 21839, Note_on_c, 0,62, 0
-1, 21840, Note_on_c, 0,60, 80
-1, 21840, Control_c, 0,2, 80
-1, 21840, Lyric_t, "I've"
-1, 22079, Note_on_c, 0,60, 0
-1, 22080, Note_on_c, 0,62, 80
-1, 22080, Control_c, 0,2, 80
-1, 22080, Lyric_t, "ev"
-1, 22199, Note_on_c, 0,62, 0
-1, 22200, Note_on_c, 0,62, 80
-1, 22200, Control_c, 0,2, 80
-1, 22200, Lyric_t, "er"
-1, 22319, Note_on_c, 0,62, 0
-1, 22320, Note_on_c, 0,62, 80
-1, 22320, Control_c, 0,2, 80
-1, 22320, Lyric_t, "known"
-1, 22559, Note_on_c, 0,62, 0
-1, 22560, Note_on_c, 0,62, 80
-1, 22560, Control_c, 0,2, 80
-1, 22799, Note_on_c, 0,62, 0
-1, 22800, Note_on_c, 0,60, 80
-1, 22800, Control_c, 0,2, 80
-1, 22800, Lyric_t, "be"
-1, 23039, Note_on_c, 0,60, 0
-1, 23040, Note_on_c, 0,63, 80
-1, 23040, Control_c, 0,2, 80
-1, 23040, Lyric_t, "fore."
-1, 23519, Note_on_c, 0,63, 0
-1, 24000, Note_on_c, 0,63, 80
-1, 24000, Control_c, 0,2, 80
-1, 24000, Lyric_t, "Love"
-1, 24119, Note_on_c, 0,63, 0
-1, 24120, Note_on_c, 0,62, 80
-1, 24120, Control_c, 0,2, 80
-1, 24120, Lyric_t, "is"
-1, 24239, Note_on_c, 0,62, 0
-1, 24240, Note_on_c, 0,60, 80
-1, 24240, Control_c, 0,2, 80
-1, 24240, Lyric_t, "an"
-1, 24359, Note_on_c, 0,60, 0
-1, 24360, Note_on_c, 0,62, 80
-1, 24360, Control_c, 0,2, 80
-1, 24360, Lyric_t, "o"
-1, 24479, Note_on_c, 0,62, 0
-1, 24480, Note_on_c, 0,62, 80
-1, 24480, Control_c, 0,2, 80
-1, 24599, Note_on_c, 0,62, 0
-1, 24600, Note_on_c, 0,60, 80
-1, 24600, Control_c, 0,2, 80
-1, 24600, Lyric_t, "pen"
-1, 24959, Note_on_c, 0,60, 0
-1, 24960, Note_on_c, 0,72, 80
-1, 24960, Control_c, 0,2, 80
-1, 24960, Lyric_t, "door"
-1, 26879, Note_on_c, 0,72, 0
-1, 26880, Note_on_c, 0,72, 80
-1, 26880, Control_c, 0,2, 80
-1, 27839, Note_on_c, 0,72, 0
-1, 27840, Note_on_c, 0,63, 80
-1, 27840, Control_c, 0,2, 80
-1, 27840, Lyric_t, "love"
-1, 27959, Note_on_c, 0,63, 0
-1, 27960, Note_on_c, 0,62, 80
-1, 27960, Control_c, 0,2, 80
-1, 27960, Lyric_t, "is"
-1, 28079, Note_on_c, 0,62, 0
-1, 28080, Note_on_c, 0,60, 80
-1, 28080, Control_c, 0,2, 80
-1, 28080, Lyric_t, "an"
-1, 28199, Note_on_c, 0,60, 0
-1, 28200, Note_on_c, 0,62, 80
-1, 28200, Control_c, 0,2, 80
-1, 28200, Lyric_t, "o"
-1, 28319, Note_on_c, 0,62, 0
-1, 28320, Note_on_c, 0,62, 80
-1, 28320, Control_c, 0,2, 80
-1, 28439, Note_on_c, 0,62, 0
-1, 28440, Note_on_c, 0,60, 80
-1, 28440, Control_c, 0,2, 80
-1, 28440, Lyric_t, "pen"
-1, 28799, Note_on_c, 0,60, 0
-1, 28800, Note_on_c, 0,72, 80
-1, 28800, Control_c, 0,2, 80
-1, 28800, Lyric_t, "door"
-1, 30719, Note_on_c, 0,72, 0
-1, 30720, Note_on_c, 0,72, 80
-1, 30720, Control_c, 0,2, 80
-1, 31679, Note_on_c, 0,72, 0
-1, 31680, Note_on_c, 0,63, 80
-1, 31680, Control_c, 0,2, 80
-1, 31680, Lyric_t, "love"
-1, 31799, Note_on_c, 0,63, 0
-1, 31800, Note_on_c, 0,62, 80
-1, 31800, Control_c, 0,2, 80
-1, 31800, Lyric_t, "is"
-1, 31919, Note_on_c, 0,62, 0
-1, 31920, Note_on_c, 0,60, 80
-1, 31920, Control_c, 0,2, 80
-1, 31920, Lyric_t, "an"
-1, 32039, Note_on_c, 0,60, 0
-1, 32040, Note_on_c, 0,62, 80
-1, 32040, Control_c, 0,2, 80
-1, 32040, Lyric_t, "o"
-1, 32159, Note_on_c, 0,62, 0
-1, 32160, Note_on_c, 0,62, 80
-1, 32160, Control_c, 0,2, 80
-1, 32279, Note_on_c, 0,62, 0
-1, 32280, Note_on_c, 0,60, 80
-1, 32280, Control_c, 0,2, 80
-1, 32280, Lyric_t, "pen"
-1, 32639, Note_on_c, 0,60, 0
-1, 32640, Note_on_c, 0,67, 80
-1, 32640, Control_c, 0,2, 80
-1, 32640, Lyric_t, "door"
-1, 33119, Note_on_c, 0,67, 0
-1, 33120, Note_on_c, 0,68, 80
-1, 33120, Control_c, 0,2, 80
-1, 33120, Lyric_t, "with"
-1, 33359, Note_on_c, 0,68, 0
-1, 33360, Note_on_c, 0,67, 80
-1, 33360, Control_c, 0,2, 80
-1, 33360, Lyric_t, "you,
-1, 33599, Note_on_c, 0, 67, 0
-1, 34320, Note_on_c, 0, 69, 80
-1, 34320, Control_c, 0, 2, 80
-1, 34320, Lyric_t, with"
-1, 34559, Note_on_c, 0,68, 0
-1, 34560, Note_on_c, 0,67, 80
-1, 34560, Control_c, 0,2, 80
-1, 34560, Lyric_t, "you,
-1, 34799, Note_on_c, 0, 67, 0
-1, 35520, Note_on_c, 0, 63, 80
-1, 35520, Control_c, 0, 2, 80
-1, 35520, Lyric_t, love"
-1, 35639, Note_on_c, 0,63, 0
-1, 35640, Note_on_c, 0,62, 80
-1, 35640, Control_c, 0,2, 80
-1, 35640, Lyric_t, "is"
-1, 35759, Note_on_c, 0,62, 0
-1, 35760, Note_on_c, 0,60, 80
-1, 35760, Control_c, 0,2, 80
-1, 35760, Lyric_t, "an"
-1, 35879, Note_on_c, 0,60, 0
-1, 35880, Note_on_c, 0,62, 80
-1, 35880, Control_c, 0,2, 80
-1, 35880, Lyric_t, "o"
-1, 35999, Note_on_c, 0,62, 0
-1, 36000, Note_on_c, 0,62, 80
-1, 36000, Control_c, 0,2, 80
-1, 36119, Note_on_c, 0,62, 0
-1, 36120, Note_on_c, 0,60, 80
-1, 36120, Control_c, 0,2, 80
-1, 36120, Lyric_t, "pen"
-1, 36479, Note_on_c, 0,60, 0
-1, 36480, Note_on_c, 0,55, 80
-1, 36480, Control_c, 0,2, 80
-1, 36480, Lyric_t, "door."
-1, 38399, Note_on_c, 0,55, 0
-1, 44160, Key_signature, 4, "major"
-1, 45960, Note_on_c, 0,62, 80
-1, 45960, Control_c, 0,2, 80
-1, 45960, Lyric_t, "sand"
-1, 46079, Note_on_c, 0,62, 0
-1, 46080, Note_on_c, 0,62, 80
-1, 46080, Control_c, 0,2, 80
-1, 46199, Note_on_c, 0,62, 0
-1, 46200, Note_on_c, 0,58, 80
-1, 46200, Control_c, 0,2, 80
-1, 46200, Lyric_t, "wich"
-1, 46319, Note_on_c, 0,58, 0
-1, 46320, Note_on_c, 0,56, 80
-1, 46320, Control_c, 0,2, 80
-1, 46320, Lyric_t, "es"
-1, 46559, Note_on_c, 0,56, 0
-1, 47640, Note_on_c, 0,62, 80
-1, 47640, Control_c, 0,2, 80
-1, 47640, Lyric_t, "I've"
-1, 47759, Note_on_c, 0,62, 0
-1, 47760, Note_on_c, 0,62, 80
-1, 47760, Control_c, 0,2, 80
-1, 47760, Lyric_t, "nev"
-1, 47879, Note_on_c, 0,62, 0
-1, 47880, Note_on_c, 0,62, 80
-1, 47880, Control_c, 0,2, 80
-1, 47880, Lyric_t, "er"
-1, 47999, Note_on_c, 0,62, 0
-1, 48000, Note_on_c, 0,66, 80
-1, 48000, Control_c, 0,2, 80
-1, 48000, Lyric_t, "met"
-1, 48239, Note_on_c, 0,66, 0
-1, 48240, Note_on_c, 0,68, 80
-1, 48240, Control_c, 0,2, 80
-1, 48240, Lyric_t, "some"
-1, 48359, Note_on_c, 0,68, 0
-1, 48360, Note_on_c, 0,68, 80
-1, 48360, Control_c, 0,2, 80
-1, 48360, Lyric_t, "one"
-1, 48479, Note_on_c, 0,68, 0
-1, 48480, Note_on_c, 0,68, 80
-1, 48480, Control_c, 0,2, 80
-1, 48719, Note_on_c, 0,68, 0
-1, 48720, Note_on_c, 0,66, 80
-1, 48720, Control_c, 0,2, 80
-1, 48720, Lyric_t, "who"
-1, 48959, Note_on_c, 0,66, 0
-1, 48960, Note_on_c, 0,63, 80
-1, 48960, Control_c, 0,2, 80
-1, 48960, Lyric_t, "thinks"
-1, 49199, Note_on_c, 0,63, 0
-1, 49200, Note_on_c, 0,62, 80
-1, 49200, Control_c, 0,2, 80
-1, 49200, Lyric_t, "so"
-1, 49319, Note_on_c, 0,62, 0
-1, 49320, Note_on_c, 0,63, 80
-1, 49320, Control_c, 0,2, 80
-1, 49320, Lyric_t, "much"
-1, 49439, Note_on_c, 0,63, 0
-1, 49440, Note_on_c, 0,63, 80
-1, 49440, Control_c, 0,2, 80
-1, 49559, Note_on_c, 0,63, 0
-1, 49560, Note_on_c, 0,66, 80
-1, 49560, Control_c, 0,2, 80
-1, 49560, Lyric_t, "like"
-1, 49799, Note_on_c, 0,66, 0
-1, 49800, Note_on_c, 0,62, 80
-1, 49800, Control_c, 0,2, 80
-1, 49800, Lyric_t, "me."
-1, 49919, Note_on_c, 0,62, 0
-1, 49920, Note_on_c, 0,62, 80
-1, 49920, Control_c, 0,2, 80
-1, 50159, Note_on_c, 0,62, 0
-1, 51600, Note_on_c, 0,62, 80
-1, 51600, Control_c, 0,2, 80
-1, 51600, Lyric_t, "Our"
-1, 51839, Note_on_c, 0,62, 0
-1, 51840, Note_on_c, 0,66, 80
-1, 51840, Control_c, 0,2, 80
-1, 51840, Lyric_t, "men"
-1, 51959, Note_on_c, 0,66, 0
-1, 52080, Note_on_c, 0,68, 80
-1, 52080, Control_c, 0,2, 80
-1, 52080, Lyric_t, "tal"
-1, 52139, Note_on_c, 0,68, 0
-1, 52200, Note_on_c, 0,68, 80
-1, 52200, Control_c, 0,2, 80
-1, 52200, Lyric_t, "syn"
-1, 52259, Note_on_c, 0,68, 0
-1, 52320, Note_on_c, 0,68, 80
-1, 52320, Control_c, 0,2, 80
-1, 52439, Note_on_c, 0,68, 0
-1, 52440, Note_on_c, 0,68, 80
-1, 52440, Control_c, 0,2, 80
-1, 52440, Lyric_t, "chro"
-1, 52559, Note_on_c, 0,68, 0
-1, 52680, Note_on_c, 0,66, 80
-1, 52680, Control_c, 0,2, 80
-1, 52680, Lyric_t, "ni"
-1, 52739, Note_on_c, 0,66, 0
-1, 52800, Note_on_c, 0,70, 80
-1, 52800, Control_c, 0,2, 80
-1, 52800, Lyric_t, "za"
-1, 52919, Note_on_c, 0,70, 0
-1, 53040, Note_on_c, 0,68, 80
-1, 53040, Control_c, 0,2, 80
-1, 53040, Lyric_t, "tion"
-1, 53159, Note_on_c, 0,68, 0
-1, 53520, Note_on_c, 0,66, 80
-1, 53520, Control_c, 0,2, 80
-1, 53520, Lyric_t, "can"
-1, 53639, Note_on_c, 0,66, 0
-1, 53760, Note_on_c, 0,63, 80
-1, 53760, Control_c, 0,2, 80
-1, 53760, Lyric_t, "have"
-1, 53879, Note_on_c, 0,63, 0
-1, 54000, Note_on_c, 0,62, 80
-1, 54000, Control_c, 0,2, 80
-1, 54000, Lyric_t, "but"
-1, 54059, Note_on_c, 0,62, 0
-1, 54120, Note_on_c, 0,62, 80
-1, 54120, Control_c, 0,2, 80
-1, 54120, Lyric_t, "one"
-1, 54179, Note_on_c, 0,62, 0
-1, 54240, Note_on_c, 0,62, 80
-1, 54240, Control_c, 0,2, 80
-1, 54359, Note_on_c, 0,62, 0
-1, 54360, Note_on_c, 0,62, 80
-1, 54360, Control_c, 0,2, 80
-1, 54360, Lyric_t, "ex"
-1, 54479, Note_on_c, 0,62, 0
-1, 54600, Note_on_c, 0,66, 80
-1, 54600, Control_c, 0,2, 80
-1, 54600, Lyric_t, "pla"
-1, 54659, Note_on_c, 0,66, 0
-1, 54720, Note_on_c, 0,63, 80
-1, 54720, Control_c, 0,2, 80
-1, 54720, Lyric_t, "na"
-1, 54839, Note_on_c, 0,63, 0
-1, 54960, Note_on_c, 0,62, 80
-1, 54960, Control_c, 0,2, 80
-1, 54960, Lyric_t, "tion:"
-1, 55079, Note_on_c, 0,62, 0
-1, 55920, Note_on_c, 0,66, 80
-1, 55920, Control_c, 0,2, 80
-1, 55920, Lyric_t, "and"
-1, 56039, Note_on_c, 0,66, 0
-1, 56040, Note_on_c, 0,66, 80
-1, 56040, Control_c, 0,2, 80
-1, 56040, Lyric_t, "I"
-1, 56159, Note_on_c, 0,66, 0
-1, 56160, Note_on_c, 0,66, 80
-1, 56160, Control_c, 0,2, 80
-1, 56399, Note_on_c, 0,66, 0
-1, 56640, Note_on_c, 0,63, 80
-1, 56640, Control_c, 0,2, 80
-1, 56640, Lyric_t, "just"
-1, 56879, Note_on_c, 0,63, 0
-1, 56880, Note_on_c, 0,66, 80
-1, 56880, Control_c, 0,2, 80
-1, 56880, Lyric_t, "meant"
-1, 57119, Note_on_c, 0,66, 0
-1, 57120, Note_on_c, 0,63, 80
-1, 57120, Control_c, 0,2, 80
-1, 57120, Lyric_t, "to"
-1, 57359, Note_on_c, 0,63, 0
-1, 57360, Note_on_c, 0,62, 80
-1, 57360, Control_c, 0,2, 80
-1, 57360, Lyric_t, "be."
-1, 57599, Note_on_c, 0,62, 0
-1, 57600, Note_on_c, 0,62, 80
-1, 57600, Control_c, 0,2, 80
-1, 58559, Note_on_c, 0,62, 0
-1, 58800, Note_on_c, 0,62, 80
-1, 58800, Control_c, 0,2, 80
-1, 58800, Lyric_t, "Say"
-1, 59039, Note_on_c, 0,62, 0
-1, 59040, Note_on_c, 0,62, 80
-1, 59040, Control_c, 0,2, 80
-1, 59040, Lyric_t, "good"
-1, 59279, Note_on_c, 0,62, 0
-1, 59280, Note_on_c, 0,70, 80
-1, 59280, Control_c, 0,2, 80
-1, 59280, Lyric_t, "bye"
-1, 59519, Note_on_c, 0,70, 0
-1, 59520, Note_on_c, 0,70, 80
-1, 59520, Control_c, 0,2, 80
-1, 60479, Note_on_c, 0,70, 0
-1, 60720, Note_on_c, 0,70, 80
-1, 60720, Control_c, 0,2, 80
-1, 60720, Lyric_t, "to"
-1, 60959, Note_on_c, 0,70, 0
-1, 60960, Note_on_c, 0,66, 80
-1, 60960, Control_c, 0,2, 80
-1, 60960, Lyric_t, "the"
-1, 61199, Note_on_c, 0,66, 0
-1, 61200, Note_on_c, 0,68, 80
-1, 61200, Control_c, 0,2, 80
-1, 61200, Lyric_t, "pain"
-1, 61439, Note_on_c, 0,68, 0
-1, 61440, Note_on_c, 0,68, 80
-1, 61440, Control_c, 0,2, 80
-1, 61679, Note_on_c, 0,68, 0
-1, 61680, Note_on_c, 0,66, 80
-1, 61680, Control_c, 0,2, 80
-1, 61680, Lyric_t, "of"
-1, 61919, Note_on_c, 0,66, 0
-1, 61920, Note_on_c, 0,63, 80
-1, 61920, Control_c, 0,2, 80
-1, 61920, Lyric_t, "the"
-1, 62159, Note_on_c, 0,63, 0
-1, 62160, Note_on_c, 0,62, 80
-1, 62160, Control_c, 0,2, 80
-1, 62160, Lyric_t, "past."
-1, 62399, Note_on_c, 0,62, 0
-1, 63360, Note_on_c, 0,63, 80
-1, 63360, Control_c, 0,2, 80
-1, 63360, Lyric_t, "We"
-1, 63599, Note_on_c, 0,63, 0
-1, 63600, Note_on_c, 0,63, 80
-1, 63600, Control_c, 0,2, 80
-1, 63600, Lyric_t, "don't"
-1, 63839, Note_on_c, 0,63, 0
-1, 63840, Note_on_c, 0,63, 80
-1, 63840, Control_c, 0,2, 80
-1, 63840, Lyric_t, "have"
-1, 64079, Note_on_c, 0,63, 0
-1, 64080, Note_on_c, 0,62, 80
-1, 64080, Control_c, 0,2, 80
-1, 64080, Lyric_t, "to"
-1, 64319, Note_on_c, 0,62, 0
-1, 64320, Note_on_c, 0,63, 80
-1, 64320, Control_c, 0,2, 80
-1, 64320, Lyric_t, "feel"
-1, 64559, Note_on_c, 0,63, 0
-1, 64560, Note_on_c, 0,63, 80
-1, 64560, Control_c, 0,2, 80
-1, 64560, Lyric_t, "it"
-1, 64799, Note_on_c, 0,63, 0
-1, 64800, Note_on_c, 0,63, 80
-1, 64800, Control_c, 0,2, 80
-1, 64800, Lyric_t, "a"
-1, 64919, Note_on_c, 0,63, 0
-1, 64920, Note_on_c, 0,62, 80
-1, 64920, Control_c, 0,2, 80
-1, 64920, Lyric_t, "ny"
-1, 65039, Note_on_c, 0,62, 0
-1, 65040, Note_on_c, 0,65, 80
-1, 65040, Control_c, 0,2, 80
-1, 65040, Lyric_t, "more."
-1, 65279, Note_on_c, 0,65, 0
-1, 65280, Note_on_c, 0,65, 80
-1, 65280, Control_c, 0,2, 80
-1, 65759, Note_on_c, 0,65, 0
-1, 66240, Note_on_c, 0,65, 80
-1, 66240, Control_c, 0,2, 80
-1, 66240, Lyric_t, "Love"
-1, 66359, Note_on_c, 0,65, 0
-1, 66360, Note_on_c, 0,63, 80
-1, 66360, Control_c, 0,2, 80
-1, 66360, Lyric_t, "is"
-1, 66479, Note_on_c, 0,63, 0
-1, 66480, Note_on_c, 0,62, 80
-1, 66480, Control_c, 0,2, 80
-1, 66480, Lyric_t, "an"
-1, 66599, Note_on_c, 0,62, 0
-1, 66600, Note_on_c, 0,63, 80
-1, 66600, Control_c, 0,2, 80
-1, 66600, Lyric_t, "o"
-1, 66719, Note_on_c, 0,63, 0
-1, 66720, Note_on_c, 0,63, 80
-1, 66720, Control_c, 0,2, 80
-1, 66839, Note_on_c, 0,63, 0
-1, 66840, Note_on_c, 0,62, 80
-1, 66840, Control_c, 0,2, 80
-1, 66840, Lyric_t, "pen"
-1, 67199, Note_on_c, 0,62, 0
-1, 67200, Note_on_c, 0,62, 80
-1, 67200, Control_c, 0,2, 80
-1, 67200, Lyric_t, "door"
-1, 68159, Note_on_c, 0,62, 0
-1, 68160, Note_on_c, 0,61, 80
-1, 68160, Control_c, 0,2, 80
-1, 69119, Note_on_c, 0,61, 0
-1, 69120, Note_on_c, 0,58, 80
-1, 69120, Control_c, 0,2, 80
-1, 70079, Note_on_c, 0,58, 0
-1, 70080, Note_on_c, 0,65, 80
-1, 70080, Control_c, 0,2, 80
-1, 70080, Lyric_t, "love"
-1, 70199, Note_on_c, 0,65, 0
-1, 70200, Note_on_c, 0,63, 80
-1, 70200, Control_c, 0,2, 80
-1, 70200, Lyric_t, "is"
-1, 70319, Note_on_c, 0,63, 0
-1, 70320, Note_on_c, 0,62, 80
-1, 70320, Control_c, 0,2, 80
-1, 70320, Lyric_t, "an"
-1, 70439, Note_on_c, 0,62, 0
-1, 70440, Note_on_c, 0,63, 80
-1, 70440, Control_c, 0,2, 80
-1, 70440, Lyric_t, "o"
-1, 70559, Note_on_c, 0,63, 0
-1, 70560, Note_on_c, 0,63, 80
-1, 70560, Control_c, 0,2, 80
-1, 70679, Note_on_c, 0,63, 0
-1, 70680, Note_on_c, 0,62, 80
-1, 70680, Control_c, 0,2, 80
-1, 70680, Lyric_t, "pen"
-1, 71039, Note_on_c, 0,62, 0
-1, 71520, Note_on_c, 0,66, 80
-1, 71520, Control_c, 0,2, 80
-1, 71520, Lyric_t, "door"
-1, 71999, Note_on_c, 0,66, 0
-1, 72000, Note_on_c, 0,63, 80
-1, 72000, Control_c, 0,2, 80
-1, 72479, Note_on_c, 0,63, 0
-1, 72480, Note_on_c, 0,61, 80
-1, 72480, Control_c, 0,2, 80
-1, 72959, Note_on_c, 0,61, 0
-1, 72960, Note_on_c, 0,62, 80
-1, 72960, Control_c, 0,2, 80
-1, 73919, Note_on_c, 0,62, 0
-1, 73920, Note_on_c, 0,65, 80
-1, 73920, Control_c, 0,2, 80
-1, 73920, Lyric_t, "life"
-1, 74039, Note_on_c, 0,65, 0
-1, 74040, Note_on_c, 0,63, 80
-1, 74040, Control_c, 0,2, 80
-1, 74040, Lyric_t, "can"
-1, 74159, Note_on_c, 0,63, 0
-1, 74160, Note_on_c, 0,62, 80
-1, 74160, Control_c, 0,2, 80
-1, 74160, Lyric_t, "be"
-1, 74279, Note_on_c, 0,62, 0
-1, 74280, Note_on_c, 0,63, 80
-1, 74280, Control_c, 0,2, 80
-1, 74280, Lyric_t, "so"
-1, 74399, Note_on_c, 0,63, 0
-1, 74400, Note_on_c, 0,63, 80
-1, 74400, Control_c, 0,2, 80
-1, 74519, Note_on_c, 0,63, 0
-1, 74520, Note_on_c, 0,62, 80
-1, 74520, Control_c, 0,2, 80
-1, 74520, Lyric_t, "much"
-1, 74879, Note_on_c, 0,62, 0
-1, 74880, Note_on_c, 0,68, 80
-1, 74880, Control_c, 0,2, 80
-1, 74880, Lyric_t, "more"
-1, 75359, Note_on_c, 0,68, 0
-1, 75360, Note_on_c, 0,70, 80
-1, 75360, Control_c, 0,2, 80
-1, 75360, Lyric_t, "with"
-1, 75599, Note_on_c, 0,70, 0
-1, 75600, Note_on_c, 0,68, 80
-1, 75600, Control_c, 0,2, 80
-1, 75600, Lyric_t, "you,
-1, 75839, Note_on_c, 0, 69, 0
-1, 77040, Note_on_c, 0, 64, 80
-1, 77040, Control_c, 0, 2, 80
-1, 77040, Lyric_t, with"
-1, 77279, Note_on_c, 0,63, 0
-1, 77280, Note_on_c, 0,66, 80
-1, 77280, Control_c, 0,2, 80
-1, 77280, Lyric_t, "you"
-1, 77519, Note_on_c, 0,66, 0
-1, 77760, Note_on_c, 0,65, 80
-1, 77760, Control_c, 0,2, 80
-1, 77760, Lyric_t, "love"
-1, 77879, Note_on_c, 0,65, 0
-1, 77880, Note_on_c, 0,63, 80
-1, 77880, Control_c, 0,2, 80
-1, 77880, Lyric_t, "is"
-1, 77999, Note_on_c, 0,63, 0
-1, 78000, Note_on_c, 0,62, 80
-1, 78000, Control_c, 0,2, 80
-1, 78000, Lyric_t, "an"
-1, 78119, Note_on_c, 0,62, 0
-1, 78120, Note_on_c, 0,63, 80
-1, 78120, Control_c, 0,2, 80
-1, 78120, Lyric_t, "o"
-1, 78239, Note_on_c, 0,63, 0
-1, 78240, Note_on_c, 0,63, 80
-1, 78240, Control_c, 0,2, 80
-1, 78359, Note_on_c, 0,63, 0
-1, 78360, Note_on_c, 0,62, 80
-1, 78360, Control_c, 0,2, 80
-1, 78360, Lyric_t, "pen"
-1, 78719, Note_on_c, 0,62, 0
-1, 79200, Note_on_c, 0,66, 80
-1, 79200, Control_c, 0,2, 80
-1, 80159, Note_on_c, 0,66, 0
-1, 80160, Note_on_c, 0,66, 80
-1, 80160, Control_c, 0,2, 80
-1, 80279, Note_on_c, 0,66, 0
-1, 80280, Note_on_c, 0,67, 80
-1, 80280, Control_c, 0,2, 80
-1, 80399, Note_on_c, 0,67, 0
-1, 80400, Note_on_c, 0,66, 80
-1, 80400, Control_c, 0,2, 80
-1, 80519, Note_on_c, 0,66, 0
-1, 80520, Note_on_c, 0,63, 80
-1, 80520, Control_c, 0,2, 80
-1, 80639, Note_on_c, 0,63, 0
-1, 80640, Note_on_c, 0,63, 80
-1, 80640, Control_c, 0,2, 80
-1, 80759, Note_on_c, 0,63, 0
-1, 80760, Note_on_c, 0,62, 80
-1, 80760, Control_c, 0,2, 80
-1, 81119, Note_on_c, 0,62, 0
-1, 81120, Note_on_c, 0,62, 80
-1, 81120, Control_c, 0,2, 80
-1, 81599, Note_on_c, 0,62, 0
-1, 81600, End_track
+1, 0, End_track
 2, 0, Start_track
-2, 0, Title_t, "Men"
-2, 0, Key_signature, 0, "major"
-2, 0, Control_c, 2,121, 0
-2, 0, Control_c, 2,99, 0
-2, 0, Control_c, 2,101, 0
-2, 0, Control_c, 2,6, 12
-2, 0, Control_c, 2,99, 127
-2, 0, Control_c, 2,101, 127
-2, 0, Program_c, 2, 52
-2, 0, Control_c, 2,7, 100
-2, 0, Control_c, 2,10, 64
-2, 0, Control_c, 2,91, 0
-2, 0, Control_c, 2,92, 0
-2, 0, MIDI_port, 0
-2, 0, Control_c, 3,121, 0
-2, 0, Control_c, 3,99, 0
-2, 0, Control_c, 3,101, 0
-2, 0, Control_c, 3,6, 12
-2, 0, Control_c, 3,99, 127
-2, 0, Control_c, 3,101, 127
-2, 0, Program_c, 3, 52
-2, 0, Control_c, 3,7, 100
-2, 0, Control_c, 3,10, 64
-2, 0, Control_c, 3,91, 0
-2, 0, Control_c, 3,92, 0
-2, 0, MIDI_port, 0
-2, 9600, Note_on_c, 2,51, 80
-2, 9600, Control_c, 2,2, 80
-2, 9600, Lyric_t, "I've"
-2, 9839, Note_on_c, 2,51, 0
-2, 9840, Note_on_c, 2,55, 80
-2, 9840, Control_c, 2,2, 80
-2, 9840, Lyric_t, "been"
-2, 10079, Note_on_c, 2,55, 0
-2, 10080, Note_on_c, 2,55, 80
-2, 10080, Control_c, 2,2, 80
-2, 10080, Lyric_t, "search"
-2, 10319, Note_on_c, 2,55, 0
-2, 10320, Note_on_c, 2,51, 80
-2, 10320, Control_c, 2,2, 80
-2, 10320, Lyric_t, "in'"
-2, 10559, Note_on_c, 2,51, 0
-2, 10560, Note_on_c, 2,56, 80
-2, 10560, Control_c, 2,2, 80
-2, 10560, Lyric_t, "my"
-2, 10799, Note_on_c, 2,56, 0
-2, 10800, Note_on_c, 2,55, 80
-2, 10800, Control_c, 2,2, 80
-2, 10800, Lyric_t, "whole"
-2, 11039, Note_on_c, 2,55, 0
-2, 11040, Note_on_c, 2,51, 80
-2, 11040, Control_c, 2,2, 80
-2, 11040, Lyric_t, "life"
-2, 11279, Note_on_c, 2,51, 0
-2, 11280, Note_on_c, 2,50, 80
-2, 11280, Control_c, 2,2, 80
-2, 11280, Lyric_t, "to"
-2, 11519, Note_on_c, 2,50, 0
-2, 11520, Note_on_c, 2,50, 80
-2, 11520, Control_c, 2,2, 80
-2, 11520, Lyric_t, "find"
-2, 11759, Note_on_c, 2,50, 0
-2, 11760, Note_on_c, 2,48, 80
-2, 11760, Control_c, 2,2, 80
-2, 11760, Lyric_t, "my"
-2, 11999, Note_on_c, 2,48, 0
-2, 12000, Note_on_c, 2,51, 80
-2, 12000, Control_c, 2,2, 80
-2, 12000, Lyric_t, "own"
-2, 12239, Note_on_c, 2,51, 0
-2, 12240, Note_on_c, 2,50, 80
-2, 12240, Control_c, 2,2, 80
-2, 12240, Lyric_t, "place,
-2, 12479, Note_on_c, 2, 50, 0
-2, 13080, Note_on_c, 2, 48, 80
-2, 13080, Control_c, 2, 2, 80
-2, 13080, Lyric_t, and"
-2, 13199, Note_on_c, 2,48, 0
-2, 13200, Note_on_c, 2,48, 80
-2, 13200, Control_c, 2,2, 80
-2, 13200, Lyric_t, "may"
-2, 13319, Note_on_c, 2,48, 0
-2, 13320, Note_on_c, 2,50, 80
-2, 13320, Control_c, 2,2, 80
-2, 13320, Lyric_t, "be"
-2, 13439, Note_on_c, 2,50, 0
-2, 13440, Note_on_c, 2,51, 80
-2, 13440, Control_c, 2,2, 80
-2, 13440, Lyric_t, "it's"
-2, 13679, Note_on_c, 2,51, 0
-2, 13680, Note_on_c, 2,55, 80
-2, 13680, Control_c, 2,2, 80
-2, 13680, Lyric_t, "the"
-2, 13919, Note_on_c, 2,55, 0
-2, 13920, Note_on_c, 2,55, 80
-2, 13920, Control_c, 2,2, 80
-2, 13920, Lyric_t, "par"
-2, 14159, Note_on_c, 2,55, 0
-2, 14160, Note_on_c, 2,51, 80
-2, 14160, Control_c, 2,2, 80
-2, 14160, Lyric_t, "ty"
-2, 14399, Note_on_c, 2,51, 0
-2, 14400, Note_on_c, 2,56, 80
-2, 14400, Control_c, 2,2, 80
-2, 14400, Lyric_t, "talk"
-2, 14639, Note_on_c, 2,56, 0
-2, 14640, Note_on_c, 2,55, 80
-2, 14640, Control_c, 2,2, 80
-2, 14640, Lyric_t, "in'"
-2, 14879, Note_on_c, 2,55, 0
-2, 15120, Note_on_c, 2,50, 80
-2, 15120, Control_c, 2,2, 80
-2, 15120, Lyric_t, "or"
-2, 15239, Note_on_c, 2,50, 0
-2, 15240, Note_on_c, 2,48, 80
-2, 15240, Control_c, 2,2, 80
-2, 15240, Lyric_t, "the"
-2, 15359, Note_on_c, 2,48, 0
-2, 15360, Note_on_c, 2,50, 80
-2, 15360, Control_c, 2,2, 80
-2, 15360, Lyric_t, "choc"
-2, 15599, Note_on_c, 2,50, 0
-2, 15600, Note_on_c, 2,48, 80
-2, 15600, Control_c, 2,2, 80
-2, 15600, Lyric_t, "'late"
-2, 15839, Note_on_c, 2,48, 0
-2, 15840, Note_on_c, 2,51, 80
-2, 15840, Control_c, 2,2, 80
-2, 15840, Lyric_t, "fon"
-2, 16079, Note_on_c, 2,51, 0
-2, 16080, Note_on_c, 2,50, 80
-2, 16080, Control_c, 2,2, 80
-2, 16080, Lyric_t, "due,
-2, 16319, Note_on_c, 2, 50, 0
-2, 17520, Note_on_c, 2, 57, 80
-2, 17520, Control_c, 2, 2, 80
-2, 17520, Lyric_t, But"
-2, 17759, Note_on_c, 2,56, 0
-2, 17760, Note_on_c, 2,58, 80
-2, 17760, Control_c, 2,2, 80
-2, 17760, Lyric_t, "with"
-2, 17999, Note_on_c, 2,58, 0
-2, 18000, Note_on_c, 2,60, 80
-2, 18000, Control_c, 2,2, 80
-2, 18000, Lyric_t, "you"
-2, 18239, Note_on_c, 2,60, 0
-2, 18240, Note_on_c, 2,60, 80
-2, 18240, Control_c, 2,2, 80
-2, 18479, Note_on_c, 2,60, 0
-2, 18480, Note_on_c, 2,56, 80
-2, 18480, Control_c, 2,2, 80
-2, 18480, Lyric_t, "I've"
-2, 18719, Note_on_c, 2,56, 0
-2, 18720, Note_on_c, 2,51, 80
-2, 18720, Control_c, 2,2, 80
-2, 18720, Lyric_t, "found"
-2, 18959, Note_on_c, 2,51, 0
-2, 18960, Note_on_c, 2,56, 80
-2, 18960, Control_c, 2,2, 80
-2, 18960, Lyric_t, "my"
-2, 19199, Note_on_c, 2,56, 0
-2, 19200, Note_on_c, 2,56, 80
-2, 19200, Control_c, 2,2, 80
-2, 19439, Note_on_c, 2,56, 0
-2, 19440, Note_on_c, 2,55, 80
-2, 19440, Control_c, 2,2, 80
-2, 19440, Lyric_t, "place"
-2, 20159, Note_on_c, 2,55, 0
-2, 20760, Note_on_c, 2,55, 80
-2, 20760, Control_c, 2,2, 80
-2, 20760, Lyric_t, "and"
-2, 20879, Note_on_c, 2,55, 0
-2, 20880, Note_on_c, 2,55, 80
-2, 20880, Control_c, 2,2, 80
-2, 20880, Lyric_t, "it's"
-2, 21119, Note_on_c, 2,55, 0
-2, 21120, Note_on_c, 2,54, 80
-2, 21120, Control_c, 2,2, 80
-2, 21120, Lyric_t, "noth"
-2, 21239, Note_on_c, 2,54, 0
-2, 21240, Note_on_c, 2,54, 80
-2, 21240, Control_c, 2,2, 80
-2, 21240, Lyric_t, "in'"
-2, 21359, Note_on_c, 2,54, 0
-2, 21360, Note_on_c, 2,54, 80
-2, 21360, Control_c, 2,2, 80
-2, 21360, Lyric_t, "like"
-2, 21599, Note_on_c, 2,54, 0
-2, 21600, Note_on_c, 2,54, 80
-2, 21600, Control_c, 2,2, 80
-2, 21839, Note_on_c, 2,54, 0
-2, 21840, Note_on_c, 2,54, 80
-2, 21840, Control_c, 2,2, 80
-2, 21840, Lyric_t, "I've"
-2, 22079, Note_on_c, 2,54, 0
-2, 22080, Note_on_c, 2,54, 80
-2, 22080, Control_c, 2,2, 80
-2, 22080, Lyric_t, "ev"
-2, 22199, Note_on_c, 2,54, 0
-2, 22200, Note_on_c, 2,54, 80
-2, 22200, Control_c, 2,2, 80
-2, 22200, Lyric_t, "er"
-2, 22319, Note_on_c, 2,54, 0
-2, 22320, Note_on_c, 2,54, 80
-2, 22320, Control_c, 2,2, 80
-2, 22320, Lyric_t, "known"
-2, 22559, Note_on_c, 2,54, 0
-2, 22560, Note_on_c, 2,54, 80
-2, 22560, Control_c, 2,2, 80
-2, 22799, Note_on_c, 2,54, 0
-2, 22800, Note_on_c, 2,54, 80
-2, 22800, Control_c, 2,2, 80
-2, 22800, Lyric_t, "be"
-2, 23039, Note_on_c, 2,54, 0
-2, 23040, Note_on_c, 2,53, 80
-2, 23040, Control_c, 2,2, 80
-2, 23040, Lyric_t, "fore."
-2, 23279, Note_on_c, 2,53, 0
-2, 24000, Note_on_c, 2,51, 80
-2, 24000, Control_c, 2,2, 80
-2, 24000, Lyric_t, "Love"
-2, 24119, Note_on_c, 2,51, 0
-2, 24120, Note_on_c, 2,50, 80
-2, 24120, Control_c, 2,2, 80
-2, 24120, Lyric_t, "is"
-2, 24239, Note_on_c, 2,50, 0
-2, 24240, Note_on_c, 2,48, 80
-2, 24240, Control_c, 2,2, 80
-2, 24240, Lyric_t, "an"
-2, 24359, Note_on_c, 2,48, 0
-2, 24360, Note_on_c, 2,50, 80
-2, 24360, Control_c, 2,2, 80
-2, 24360, Lyric_t, "o"
-2, 24479, Note_on_c, 2,50, 0
-2, 24480, Note_on_c, 2,50, 80
-2, 24480, Control_c, 2,2, 80
-2, 24599, Note_on_c, 2,50, 0
-2, 24600, Note_on_c, 2,48, 80
-2, 24600, Control_c, 2,2, 80
-2, 24600, Lyric_t, "pen"
-2, 24959, Note_on_c, 2,48, 0
-2, 24960, Note_on_c, 2,60, 80
-2, 24960, Control_c, 2,2, 80
-2, 24960, Lyric_t, "door"
-2, 25919, Note_on_c, 2,60, 0
-2, 25920, Note_on_c, 2,58, 80
-2, 25920, Control_c, 2,2, 80
-2, 26879, Note_on_c, 2,58, 0
-2, 26880, Note_on_c, 2,56, 80
-2, 26880, Control_c, 2,2, 80
-2, 27839, Note_on_c, 2,56, 0
-2, 27840, Note_on_c, 2,51, 80
-2, 27840, Control_c, 2,2, 80
-2, 27840, Lyric_t, "love"
-2, 27959, Note_on_c, 2,51, 0
-2, 27960, Note_on_c, 2,50, 80
-2, 27960, Control_c, 2,2, 80
-2, 27960, Lyric_t, "is"
-2, 28079, Note_on_c, 2,50, 0
-2, 28080, Note_on_c, 2,48, 80
-2, 28080, Control_c, 2,2, 80
-2, 28080, Lyric_t, "an"
-2, 28199, Note_on_c, 2,48, 0
-2, 28200, Note_on_c, 2,50, 80
-2, 28200, Control_c, 2,2, 80
-2, 28200, Lyric_t, "o"
-2, 28319, Note_on_c, 2,50, 0
-2, 28320, Note_on_c, 2,50, 80
-2, 28320, Control_c, 2,2, 80
-2, 28439, Note_on_c, 2,50, 0
-2, 28440, Note_on_c, 2,48, 80
-2, 28440, Control_c, 2,2, 80
-2, 28440, Lyric_t, "pen"
-2, 28799, Note_on_c, 2,48, 0
-2, 29280, Note_on_c, 2,62, 80
-2, 29280, Control_c, 2,2, 80
-2, 29280, Lyric_t, "door"
-2, 30239, Note_on_c, 2,62, 0
-2, 30240, Note_on_c, 2,58, 80
-2, 30240, Control_c, 2,2, 80
-2, 30719, Note_on_c, 2,58, 0
-2, 30720, Note_on_c, 2,60, 80
-2, 30720, Control_c, 2,2, 80
-2, 31679, Note_on_c, 2,60, 0
-2, 31680, Note_on_c, 2,51, 80
-2, 31680, Control_c, 2,2, 80
-2, 31680, Lyric_t, "love"
-2, 31799, Note_on_c, 2,51, 0
-2, 31800, Note_on_c, 2,50, 80
-2, 31800, Control_c, 2,2, 80
-2, 31800, Lyric_t, "is"
-2, 31919, Note_on_c, 2,50, 0
-2, 31920, Note_on_c, 2,48, 80
-2, 31920, Control_c, 2,2, 80
-2, 31920, Lyric_t, "an"
-2, 32039, Note_on_c, 2,48, 0
-2, 32040, Note_on_c, 2,50, 80
-2, 32040, Control_c, 2,2, 80
-2, 32040, Lyric_t, "o"
-2, 32159, Note_on_c, 2,50, 0
-2, 32160, Note_on_c, 2,50, 80
-2, 32160, Control_c, 2,2, 80
-2, 32279, Note_on_c, 2,50, 0
-2, 32280, Note_on_c, 2,48, 80
-2, 32280, Control_c, 2,2, 80
-2, 32280, Lyric_t, "pen"
-2, 32639, Note_on_c, 2,48, 0
-2, 32640, Note_on_c, 2,55, 80
-2, 32640, Control_c, 2,2, 80
-2, 32640, Lyric_t, "door"
-2, 33119, Note_on_c, 2,55, 0
-2, 33840, Note_on_c, 2,56, 80
-2, 33840, Control_c, 2,2, 80
-2, 33840, Lyric_t, "with"
-2, 34079, Note_on_c, 2,56, 0
-2, 34080, Note_on_c, 2,55, 80
-2, 34080, Control_c, 2,2, 80
-2, 34080, Lyric_t, "you"
-2, 34319, Note_on_c, 2,55, 0
-2, 34800, Note_on_c, 2,56, 80
-2, 34800, Control_c, 2,2, 80
-2, 34800, Lyric_t, "with"
-2, 35039, Note_on_c, 2,56, 0
-2, 35040, Note_on_c, 2,60, 80
-2, 35040, Control_c, 2,2, 80
-2, 35040, Lyric_t, "you"
-2, 35279, Note_on_c, 2,60, 0
-2, 35520, Note_on_c, 2,51, 80
-2, 35520, Control_c, 2,2, 80
-2, 35520, Lyric_t, "love"
-2, 35639, Note_on_c, 2,51, 0
-2, 35640, Note_on_c, 2,50, 80
-2, 35640, Control_c, 2,2, 80
-2, 35640, Lyric_t, "is"
-2, 35759, Note_on_c, 2,50, 0
-2, 35760, Note_on_c, 2,48, 80
-2, 35760, Control_c, 2,2, 80
-2, 35760, Lyric_t, "an"
-2, 35879, Note_on_c, 2,48, 0
-2, 35880, Note_on_c, 2,50, 80
-2, 35880, Control_c, 2,2, 80
-2, 35880, Lyric_t, "o"
-2, 35999, Note_on_c, 2,50, 0
-2, 36000, Note_on_c, 2,50, 80
-2, 36000, Control_c, 2,2, 80
-2, 36119, Note_on_c, 2,50, 0
-2, 36120, Note_on_c, 2,48, 80
-2, 36120, Control_c, 2,2, 80
-2, 36120, Lyric_t, "pen"
-2, 36479, Note_on_c, 2,48, 0
-2, 36480, Note_on_c, 2,43, 80
-2, 36480, Control_c, 2,2, 80
-2, 36480, Lyric_t, "door."
-2, 38399, Note_on_c, 2,43, 0
-2, 43800, Note_on_c, 2,50, 80
-2, 43800, Control_c, 2,2, 80
-2, 43800, Lyric_t, "I"
-2, 43919, Note_on_c, 2,50, 0
-2, 43920, Note_on_c, 2,50, 80
-2, 43920, Control_c, 2,2, 80
-2, 43920, Lyric_t, "mean"
-2, 44039, Note_on_c, 2,50, 0
-2, 44040, Note_on_c, 2,51, 80
-2, 44040, Control_c, 2,2, 80
-2, 44040, Lyric_t, "it's"
-2, 44159, Note_on_c, 2,51, 0
-2, 44160, Key_signature, 4, "major"
-2, 44160, Note_on_c, 2,54, 80
-2, 44160, Control_c, 2,2, 80
-2, 44160, Lyric_t, "cra"
-2, 44399, Note_on_c, 2,54, 0
-2, 44400, Note_on_c, 2,56, 80
-2, 44400, Control_c, 2,2, 80
-2, 44400, Lyric_t, "zy"
-2, 44639, Note_on_c, 2,56, 0
-2, 44880, Note_on_c, 2,50, 80
-2, 44880, Control_c, 2,2, 80
-2, 44880, Lyric_t, "we"
-2, 45119, Note_on_c, 2,50, 0
-2, 45120, Note_on_c, 2,51, 80
-2, 45120, Control_c, 2,2, 80
-2, 45120, Lyric_t, "fin"
-2, 45239, Note_on_c, 2,51, 0
-2, 45240, Note_on_c, 2,51, 80
-2, 45240, Control_c, 2,2, 80
-2, 45240, Lyric_t, "ish"
-2, 45359, Note_on_c, 2,51, 0
-2, 45360, Note_on_c, 2,50, 80
-2, 45360, Control_c, 2,2, 80
-2, 45360, Lyric_t, "each"
-2, 45479, Note_on_c, 2,50, 0
-2, 45480, Note_on_c, 2,51, 80
-2, 45480, Control_c, 2,2, 80
-2, 45480, Lyric_t, "oth"
-2, 45599, Note_on_c, 2,51, 0
-2, 45600, Note_on_c, 2,51, 80
-2, 45600, Control_c, 2,2, 80
-2, 45719, Note_on_c, 2,51, 0
-2, 45720, Note_on_c, 2,54, 80
-2, 45720, Control_c, 2,2, 80
-2, 45720, Lyric_t, "er's"
-2, 46079, Note_on_c, 2,54, 0
-2, 48720, Note_on_c, 2,56, 80
-2, 48720, Control_c, 2,2, 80
-2, 48720, Lyric_t, "who"
-2, 48959, Note_on_c, 2,56, 0
-2, 48960, Note_on_c, 2,55, 80
-2, 48960, Control_c, 2,2, 80
-2, 48960, Lyric_t, "thinks"
-2, 49199, Note_on_c, 2,55, 0
-2, 49200, Note_on_c, 2,54, 80
-2, 49200, Control_c, 2,2, 80
-2, 49200, Lyric_t, "so"
-2, 49319, Note_on_c, 2,54, 0
-2, 49320, Note_on_c, 2,55, 80
-2, 49320, Control_c, 2,2, 80
-2, 49320, Lyric_t, "much"
-2, 49439, Note_on_c, 2,55, 0
-2, 49440, Note_on_c, 2,55, 80
-2, 49440, Control_c, 2,2, 80
-2, 49559, Note_on_c, 2,55, 0
-2, 49560, Note_on_c, 2,56, 80
-2, 49560, Control_c, 2,2, 80
-2, 49560, Lyric_t, "like"
-2, 49799, Note_on_c, 2,56, 0
-2, 49800, Note_on_c, 2,58, 80
-2, 49800, Control_c, 2,2, 80
-2, 49800, Lyric_t, "me"
-2, 49919, Note_on_c, 2,58, 0
-2, 49920, Note_on_c, 2,58, 80
-2, 49920, Control_c, 2,2, 80
-2, 50159, Note_on_c, 2,58, 0
-2, 51600, Note_on_c, 2,50, 80
-2, 51600, Control_c, 2,2, 80
-2, 51600, Lyric_t, "Our"
-2, 51839, Note_on_c, 2,50, 0
-2, 51840, Note_on_c, 2,54, 80
-2, 51840, Control_c, 2,2, 80
-2, 51840, Lyric_t, "men"
-2, 51959, Note_on_c, 2,54, 0
-2, 52080, Note_on_c, 2,56, 80
-2, 52080, Control_c, 2,2, 80
-2, 52080, Lyric_t, "tal"
-2, 52139, Note_on_c, 2,56, 0
-2, 52200, Note_on_c, 2,56, 80
-2, 52200, Control_c, 2,2, 80
-2, 52200, Lyric_t, "syn"
-2, 52259, Note_on_c, 2,56, 0
-2, 52320, Note_on_c, 2,56, 80
-2, 52320, Control_c, 2,2, 80
-2, 52439, Note_on_c, 2,56, 0
-2, 52440, Note_on_c, 2,56, 80
-2, 52440, Control_c, 2,2, 80
-2, 52440, Lyric_t, "chro"
-2, 52559, Note_on_c, 2,56, 0
-2, 52680, Note_on_c, 2,54, 80
-2, 52680, Control_c, 2,2, 80
-2, 52680, Lyric_t, "ni"
-2, 52739, Note_on_c, 2,54, 0
-2, 52800, Note_on_c, 2,58, 80
-2, 52800, Control_c, 2,2, 80
-2, 52800, Lyric_t, "za"
-2, 52919, Note_on_c, 2,58, 0
-2, 53040, Note_on_c, 2,56, 80
-2, 53040, Control_c, 2,2, 80
-2, 53040, Lyric_t, "tion"
-2, 53159, Note_on_c, 2,56, 0
-2, 53520, Note_on_c, 2,54, 80
-2, 53520, Control_c, 2,2, 80
-2, 53520, Lyric_t, "can"
-2, 53639, Note_on_c, 2,54, 0
-2, 53760, Note_on_c, 2,51, 80
-2, 53760, Control_c, 2,2, 80
-2, 53760, Lyric_t, "have"
-2, 53879, Note_on_c, 2,51, 0
-2, 54000, Note_on_c, 2,50, 80
-2, 54000, Control_c, 2,2, 80
-2, 54000, Lyric_t, "but"
-2, 54059, Note_on_c, 2,50, 0
-2, 54120, Note_on_c, 2,50, 80
-2, 54120, Control_c, 2,2, 80
-2, 54120, Lyric_t, "one"
-2, 54179, Note_on_c, 2,50, 0
-2, 54240, Note_on_c, 2,50, 80
-2, 54240, Control_c, 2,2, 80
-2, 54359, Note_on_c, 2,50, 0
-2, 54360, Note_on_c, 2,50, 80
-2, 54360, Control_c, 2,2, 80
-2, 54360, Lyric_t, "ex"
-2, 54479, Note_on_c, 2,50, 0
-2, 54600, Note_on_c, 2,54, 80
-2, 54600, Control_c, 2,2, 80
-2, 54600, Lyric_t, "pla"
-2, 54659, Note_on_c, 2,54, 0
-2, 54720, Note_on_c, 2,51, 80
-2, 54720, Control_c, 2,2, 80
-2, 54720, Lyric_t, "na"
-2, 54839, Note_on_c, 2,51, 0
-2, 54960, Note_on_c, 2,50, 80
-2, 54960, Control_c, 2,2, 80
-2, 54960, Lyric_t, "tion:"
-2, 55079, Note_on_c, 2,50, 0
-2, 55680, Note_on_c, 2,54, 80
-2, 55680, Control_c, 2,2, 80
-2, 55680, Lyric_t, "you"
-2, 55919, Note_on_c, 2,54, 0
-2, 56400, Note_on_c, 2,54, 80
-2, 56400, Control_c, 2,2, 80
-2, 56400, Lyric_t, "were"
-2, 56639, Note_on_c, 2,54, 0
-2, 56880, Note_on_c, 2,54, 80
-2, 56880, Control_c, 2,2, 80
-2, 56880, Lyric_t, "meant"
-2, 57119, Note_on_c, 2,54, 0
-2, 57120, Note_on_c, 2,51, 80
-2, 57120, Control_c, 2,2, 80
-2, 57120, Lyric_t, "to"
-2, 57359, Note_on_c, 2,51, 0
-2, 57360, Note_on_c, 2,58, 80
-2, 57360, Control_c, 2,2, 80
-2, 57360, Lyric_t, "be."
-2, 57599, Note_on_c, 2,58, 0
-2, 57600, Note_on_c, 2,58, 80
-2, 57600, Control_c, 2,2, 80
-2, 58559, Note_on_c, 2,58, 0
-2, 59760, Note_on_c, 2,58, 80
-2, 59760, Control_c, 2,2, 80
-2, 59760, Lyric_t, "Say"
-2, 59999, Note_on_c, 2,58, 0
-2, 60000, Note_on_c, 2,61, 80
-2, 60000, Control_c, 2,2, 80
-2, 60000, Lyric_t, "good"
-2, 60239, Note_on_c, 2,61, 0
-2, 60240, Note_on_c, 2,62, 80
-2, 60240, Control_c, 2,2, 80
-2, 60240, Lyric_t, "bye"
-2, 60479, Note_on_c, 2,62, 0
-2, 60480, Note_on_c, 2,62, 80
-2, 60480, Control_c, 2,2, 80
-2, 60719, Note_on_c, 2,62, 0
-2, 60720, Note_on_c, 2,54, 80
-2, 60720, Control_c, 2,2, 80
-2, 60720, Lyric_t, "to"
-2, 60959, Note_on_c, 2,54, 0
-2, 60960, Note_on_c, 2,56, 80
-2, 60960, Control_c, 2,2, 80
-2, 60960, Lyric_t, "the"
-2, 61199, Note_on_c, 2,56, 0
-2, 61200, Note_on_c, 2,62, 80
-2, 61200, Control_c, 2,2, 80
-2, 61200, Lyric_t, "pain"
-2, 61439, Note_on_c, 2,62, 0
-2, 61440, Note_on_c, 2,62, 80
-2, 61440, Control_c, 2,2, 80
-2, 61679, Note_on_c, 2,62, 0
-2, 61680, Note_on_c, 2,56, 80
-2, 61680, Control_c, 2,2, 80
-2, 61680, Lyric_t, "of"
-2, 61919, Note_on_c, 2,56, 0
-2, 61920, Note_on_c, 2,55, 80
-2, 61920, Control_c, 2,2, 80
-2, 61920, Lyric_t, "the"
-2, 62159, Note_on_c, 2,55, 0
-2, 62160, Note_on_c, 2,54, 80
-2, 62160, Control_c, 2,2, 80
-2, 62160, Lyric_t, "past."
-2, 62399, Note_on_c, 2,54, 0
-2, 63360, Note_on_c, 2,56, 80
-2, 63360, Control_c, 2,2, 80
-2, 63360, Lyric_t, "We"
-2, 63599, Note_on_c, 2,56, 0
-2, 63600, Note_on_c, 2,56, 80
-2, 63600, Control_c, 2,2, 80
-2, 63600, Lyric_t, "don't"
-2, 63839, Note_on_c, 2,56, 0
-2, 63840, Note_on_c, 2,56, 80
-2, 63840, Control_c, 2,2, 80
-2, 63840, Lyric_t, "have"
-2, 64079, Note_on_c, 2,56, 0
-2, 64080, Note_on_c, 2,56, 80
-2, 64080, Control_c, 2,2, 80
-2, 64080, Lyric_t, "to"
-2, 64319, Note_on_c, 2,56, 0
-2, 64320, Note_on_c, 2,56, 80
-2, 64320, Control_c, 2,2, 80
-2, 64320, Lyric_t, "feel"
-2, 64559, Note_on_c, 2,56, 0
-2, 64560, Note_on_c, 2,56, 80
-2, 64560, Control_c, 2,2, 80
-2, 64560, Lyric_t, "it"
-2, 64799, Note_on_c, 2,56, 0
-2, 64800, Note_on_c, 2,56, 80
-2, 64800, Control_c, 2,2, 80
-2, 64800, Lyric_t, "a"
-2, 64919, Note_on_c, 2,56, 0
-2, 64920, Note_on_c, 2,56, 80
-2, 64920, Control_c, 2,2, 80
-2, 64920, Lyric_t, "ny"
-2, 65039, Note_on_c, 2,56, 0
-2, 65040, Note_on_c, 2,55, 80
-2, 65040, Control_c, 2,2, 80
-2, 65040, Lyric_t, "more."
-2, 65279, Note_on_c, 2,55, 0
-2, 65280, Note_on_c, 2,55, 80
-2, 65280, Control_c, 2,2, 80
-2, 65759, Note_on_c, 2,55, 0
-2, 66240, Note_on_c, 2,53, 80
-2, 66240, Control_c, 2,2, 80
-2, 66240, Lyric_t, "Love"
-2, 66359, Note_on_c, 2,53, 0
-2, 66360, Note_on_c, 2,51, 80
-2, 66360, Control_c, 2,2, 80
-2, 66360, Lyric_t, "is"
-2, 66479, Note_on_c, 2,51, 0
-2, 66480, Note_on_c, 2,50, 80
-2, 66480, Control_c, 2,2, 80
-2, 66480, Lyric_t, "an"
-2, 66599, Note_on_c, 2,50, 0
-2, 66600, Note_on_c, 2,51, 80
-2, 66600, Control_c, 2,2, 80
-2, 66600, Lyric_t, "o"
-2, 66719, Note_on_c, 2,51, 0
-2, 66720, Note_on_c, 2,51, 80
-2, 66720, Control_c, 2,2, 80
-2, 66839, Note_on_c, 2,51, 0
-2, 66840, Note_on_c, 2,50, 80
-2, 66840, Control_c, 2,2, 80
-2, 66840, Lyric_t, "pen"
-2, 67199, Note_on_c, 2,50, 0
-2, 67200, Note_on_c, 2,62, 80
-2, 67200, Control_c, 2,2, 80
-2, 67200, Lyric_t, "door"
-2, 68159, Note_on_c, 2,62, 0
-2, 68160, Note_on_c, 2,61, 80
-2, 68160, Control_c, 2,2, 80
-2, 69119, Note_on_c, 2,61, 0
-2, 69120, Note_on_c, 2,58, 80
-2, 69120, Control_c, 2,2, 80
-2, 70079, Note_on_c, 2,58, 0
-2, 70080, Note_on_c, 2,53, 80
-2, 70080, Control_c, 2,2, 80
-2, 70080, Lyric_t, "love"
-2, 70199, Note_on_c, 2,53, 0
-2, 70200, Note_on_c, 2,51, 80
-2, 70200, Control_c, 2,2, 80
-2, 70200, Lyric_t, "is"
-2, 70319, Note_on_c, 2,51, 0
-2, 70320, Note_on_c, 2,50, 80
-2, 70320, Control_c, 2,2, 80
-2, 70320, Lyric_t, "an"
-2, 70439, Note_on_c, 2,50, 0
-2, 70440, Note_on_c, 2,51, 80
-2, 70440, Control_c, 2,2, 80
-2, 70440, Lyric_t, "o"
-2, 70559, Note_on_c, 2,51, 0
-2, 70560, Note_on_c, 2,51, 80
-2, 70560, Control_c, 2,2, 80
-2, 70679, Note_on_c, 2,51, 0
-2, 70680, Note_on_c, 2,50, 80
-2, 70680, Control_c, 2,2, 80
-2, 70680, Lyric_t, "pen"
-2, 71039, Note_on_c, 2,50, 0
-2, 71520, Note_on_c, 2,66, 80
-2, 71520, Control_c, 2,2, 80
-2, 71520, Lyric_t, "door"
-2, 71999, Note_on_c, 2,66, 0
-2, 72000, Note_on_c, 2,63, 80
-2, 72000, Control_c, 2,2, 80
-2, 72479, Note_on_c, 2,63, 0
-2, 72480, Note_on_c, 2,61, 80
-2, 72480, Control_c, 2,2, 80
-2, 72959, Note_on_c, 2,61, 0
-2, 72960, Note_on_c, 2,62, 80
-2, 72960, Control_c, 2,2, 80
-2, 73919, Note_on_c, 2,62, 0
-2, 73920, Note_on_c, 2,53, 80
-2, 73920, Control_c, 2,2, 80
-2, 73920, Lyric_t, "life"
-2, 74039, Note_on_c, 2,53, 0
-2, 74040, Note_on_c, 2,51, 80
-2, 74040, Control_c, 2,2, 80
-2, 74040, Lyric_t, "can"
-2, 74159, Note_on_c, 2,51, 0
-2, 74160, Note_on_c, 2,50, 80
-2, 74160, Control_c, 2,2, 80
-2, 74160, Lyric_t, "be"
-2, 74279, Note_on_c, 2,50, 0
-2, 74280, Note_on_c, 2,51, 80
-2, 74280, Control_c, 2,2, 80
-2, 74280, Lyric_t, "so"
-2, 74399, Note_on_c, 2,51, 0
-2, 74400, Note_on_c, 2,51, 80
-2, 74400, Control_c, 2,2, 80
-2, 74519, Note_on_c, 2,51, 0
-2, 74520, Note_on_c, 2,50, 80
-2, 74520, Control_c, 2,2, 80
-2, 74520, Lyric_t, "much"
-2, 74879, Note_on_c, 2,50, 0
-2, 74880, Note_on_c, 2,56, 80
-2, 74880, Control_c, 2,2, 80
-2, 74880, Lyric_t, "more"
-2, 75359, Note_on_c, 2,56, 0
-2, 76080, Note_on_c, 2,58, 80
-2, 76080, Control_c, 2,2, 80
-2, 76080, Lyric_t, "with"
-2, 76319, Note_on_c, 2,58, 0
-2, 76320, Note_on_c, 2,56, 80
-2, 76320, Control_c, 2,2, 80
-2, 76320, Lyric_t, "you"
-2, 76559, Note_on_c, 2,56, 0
-2, 77040, Note_on_c, 2,63, 80
-2, 77040, Control_c, 2,2, 80
-2, 77040, Lyric_t, "with"
-2, 77279, Note_on_c, 2,63, 0
-2, 77280, Note_on_c, 2,66, 80
-2, 77280, Control_c, 2,2, 80
-2, 77280, Lyric_t, "you"
-2, 77519, Note_on_c, 2,66, 0
-2, 77760, Note_on_c, 2,53, 80
-2, 77760, Control_c, 2,2, 80
-2, 77760, Lyric_t, "love"
-2, 77879, Note_on_c, 2,53, 0
-2, 77880, Note_on_c, 2,51, 80
-2, 77880, Control_c, 2,2, 80
-2, 77880, Lyric_t, "is"
-2, 77999, Note_on_c, 2,51, 0
-2, 78000, Note_on_c, 2,50, 80
-2, 78000, Control_c, 2,2, 80
-2, 78000, Lyric_t, "an"
-2, 78119, Note_on_c, 2,50, 0
-2, 78120, Note_on_c, 2,51, 80
-2, 78120, Control_c, 2,2, 80
-2, 78120, Lyric_t, "o"
-2, 78239, Note_on_c, 2,51, 0
-2, 78240, Note_on_c, 2,51, 80
-2, 78240, Control_c, 2,2, 80
-2, 78359, Note_on_c, 2,51, 0
-2, 78360, Note_on_c, 2,50, 80
-2, 78360, Control_c, 2,2, 80
-2, 78360, Lyric_t, "pen"
-2, 78719, Note_on_c, 2,50, 0
-2, 78720, Note_on_c, 2,50, 80
-2, 78720, Control_c, 2,2, 80
-2, 78720, Lyric_t, "door."
-2, 80639, Note_on_c, 2,50, 0
-2, 80640, End_track
+2, 0, Program_c, 0, 0
+2, 0, Instrument_name_t, "MIDI Instrument"
+2, 1920, Note_on_c, 0,63, 95
+2, 2136, Note_off_c, 0,63, 0
+2, 2160, Note_on_c, 0,67, 95
+2, 2376, Note_off_c, 0,67, 0
+2, 2400, Note_on_c, 0,67, 95
+2, 2616, Note_off_c, 0,67, 0
+2, 2640, Note_on_c, 0,63, 95
+2, 2856, Note_off_c, 0,63, 0
+2, 2880, Note_on_c, 0,68, 95
+2, 3096, Note_off_c, 0,68, 0
+2, 3120, Note_on_c, 0,60, 95
+2, 3336, Note_off_c, 0,60, 0
+2, 3360, Note_on_c, 0,63, 95
+2, 3576, Note_off_c, 0,63, 0
+2, 3600, Note_on_c, 0,62, 95
+2, 3816, Note_off_c, 0,62, 0
+2, 3840, Note_on_c, 0,62, 95
+2, 4056, Note_off_c, 0,62, 0
+2, 4080, Note_on_c, 0,60, 95
+2, 4296, Note_off_c, 0,60, 0
+2, 4320, Note_on_c, 0,56, 95
+2, 4536, Note_off_c, 0,56, 0
+2, 4560, Note_on_c, 0,55, 95
+2, 4776, Note_off_c, 0,55, 0
+2, 5520, Note_on_c, 0,60, 95
+2, 5520, Note_on_c, 0,62, 95
+2, 5736, Note_off_c, 0,60, 0
+2, 5736, Note_off_c, 0,62, 0
+2, 5760, Note_on_c, 0,63, 95
+2, 5868, Note_off_c, 0,63, 0
+2, 5880, Note_on_c, 0,63, 95
+2, 5988, Note_off_c, 0,63, 0
+2, 6000, Note_on_c, 0,67, 95
+2, 6216, Note_off_c, 0,67, 0
+2, 6240, Note_on_c, 0,63, 95
+2, 6456, Note_off_c, 0,63, 0
+2, 6480, Note_on_c, 0,62, 95
+2, 6696, Note_off_c, 0,62, 0
+2, 6720, Note_on_c, 0,60, 95
+2, 6936, Note_off_c, 0,60, 0
+2, 6960, Note_on_c, 0,56, 95
+2, 7176, Note_off_c, 0,56, 0
+2, 7200, Note_on_c, 0,62, 95
+2, 7632, Note_off_c, 0,62, 0
+2, 7680, Note_on_c, 0,62, 95
+2, 8112, Note_off_c, 0,62, 0
+2, 16560, Note_on_c, 0,60, 95
+2, 16776, Note_off_c, 0,60, 0
+2, 16800, Note_on_c, 0,60, 95
+2, 17016, Note_off_c, 0,60, 0
+2, 17040, Note_on_c, 0,68, 95
+2, 17256, Note_off_c, 0,68, 0
+2, 17280, Note_on_c, 0,68, 95
+2, 19104, Note_off_c, 0,68, 0
+2, 19440, Note_on_c, 0,67, 95
+2, 19656, Note_off_c, 0,67, 0
+2, 19680, Note_on_c, 0,63, 95
+2, 19896, Note_off_c, 0,63, 0
+2, 19920, Note_on_c, 0,60, 95
+2, 20136, Note_off_c, 0,60, 0
+2, 20160, Note_on_c, 0,58, 95
+2, 20376, Note_off_c, 0,58, 0
+2, 20760, Note_on_c, 0,60, 95
+2, 20868, Note_off_c, 0,60, 0
+2, 20880, Note_on_c, 0,60, 95
+2, 21096, Note_off_c, 0,60, 0
+2, 21120, Note_on_c, 0,62, 95
+2, 21228, Note_off_c, 0,62, 0
+2, 21240, Note_on_c, 0,62, 95
+2, 21348, Note_off_c, 0,62, 0
+2, 21360, Note_on_c, 0,62, 95
+2, 21576, Note_off_c, 0,62, 0
+2, 21600, Note_on_c, 0,62, 95
+2, 21816, Note_off_c, 0,62, 0
+2, 21840, Note_on_c, 0,60, 95
+2, 22056, Note_off_c, 0,60, 0
+2, 22080, Note_on_c, 0,62, 95
+2, 22188, Note_off_c, 0,62, 0
+2, 22200, Note_on_c, 0,62, 95
+2, 22308, Note_off_c, 0,62, 0
+2, 22320, Note_on_c, 0,62, 95
+2, 22536, Note_off_c, 0,62, 0
+2, 22560, Note_on_c, 0,62, 95
+2, 22776, Note_off_c, 0,62, 0
+2, 22800, Note_on_c, 0,60, 95
+2, 23016, Note_off_c, 0,60, 0
+2, 23040, Note_on_c, 0,63, 95
+2, 23472, Note_off_c, 0,63, 0
+2, 24000, Note_on_c, 0,63, 95
+2, 24108, Note_off_c, 0,63, 0
+2, 24120, Note_on_c, 0,62, 95
+2, 24228, Note_off_c, 0,62, 0
+2, 24240, Note_on_c, 0,60, 95
+2, 24348, Note_off_c, 0,60, 0
+2, 24360, Note_on_c, 0,62, 95
+2, 24468, Note_off_c, 0,62, 0
+2, 24480, Note_on_c, 0,62, 95
+2, 24624, Note_off_c, 0,62, 0
+2, 24640, Note_on_c, 0,60, 95
+2, 24928, Note_off_c, 0,60, 0
+2, 24960, Note_on_c, 0,72, 95
+2, 26784, Note_off_c, 0,72, 0
+2, 26880, Note_on_c, 0,72, 95
+2, 27744, Note_off_c, 0,72, 0
+2, 27840, Note_on_c, 0,63, 95
+2, 27948, Note_off_c, 0,63, 0
+2, 27960, Note_on_c, 0,62, 95
+2, 28068, Note_off_c, 0,62, 0
+2, 28080, Note_on_c, 0,60, 95
+2, 28188, Note_off_c, 0,60, 0
+2, 28200, Note_on_c, 0,62, 95
+2, 28308, Note_off_c, 0,62, 0
+2, 28320, Note_on_c, 0,62, 95
+2, 28464, Note_off_c, 0,62, 0
+2, 28480, Note_on_c, 0,60, 95
+2, 28768, Note_off_c, 0,60, 0
+2, 28800, Note_on_c, 0,72, 95
+2, 30624, Note_off_c, 0,72, 0
+2, 30720, Note_on_c, 0,72, 95
+2, 31584, Note_off_c, 0,72, 0
+2, 31680, Note_on_c, 0,63, 95
+2, 31788, Note_off_c, 0,63, 0
+2, 31800, Note_on_c, 0,62, 95
+2, 31908, Note_off_c, 0,62, 0
+2, 31920, Note_on_c, 0,60, 95
+2, 32028, Note_off_c, 0,60, 0
+2, 32040, Note_on_c, 0,62, 95
+2, 32148, Note_off_c, 0,62, 0
+2, 32160, Note_on_c, 0,62, 95
+2, 32304, Note_off_c, 0,62, 0
+2, 32320, Note_on_c, 0,60, 95
+2, 32608, Note_off_c, 0,60, 0
+2, 32640, Note_on_c, 0,67, 95
+2, 33072, Note_off_c, 0,67, 0
+2, 33120, Note_on_c, 0,68, 95
+2, 33336, Note_off_c, 0,68, 0
+2, 33360, Note_on_c, 0,67, 95
+2, 33576, Note_off_c, 0,67, 0
+2, 34320, Note_on_c, 0,68, 95
+2, 34536, Note_off_c, 0,68, 0
+2, 34560, Note_on_c, 0,67, 95
+2, 34776, Note_off_c, 0,67, 0
+2, 35520, Note_on_c, 0,63, 95
+2, 35628, Note_off_c, 0,63, 0
+2, 35640, Note_on_c, 0,62, 95
+2, 35748, Note_off_c, 0,62, 0
+2, 35760, Note_on_c, 0,60, 95
+2, 35868, Note_off_c, 0,60, 0
+2, 35880, Note_on_c, 0,62, 95
+2, 35988, Note_off_c, 0,62, 0
+2, 36000, Note_on_c, 0,62, 95
+2, 36144, Note_off_c, 0,62, 0
+2, 36160, Note_on_c, 0,60, 95
+2, 36448, Note_off_c, 0,60, 0
+2, 36480, Note_on_c, 0,55, 95
+2, 38304, Note_off_c, 0,55, 0
+2, 46080, Note_on_c, 0,62, 95
+2, 46188, Note_off_c, 0,62, 0
+2, 46200, Note_on_c, 0,58, 95
+2, 46308, Note_off_c, 0,58, 0
+2, 46320, Note_on_c, 0,56, 95
+2, 46536, Note_off_c, 0,56, 0
+2, 47640, Note_on_c, 0,62, 95
+2, 47748, Note_off_c, 0,62, 0
+2, 47760, Note_on_c, 0,62, 95
+2, 47868, Note_off_c, 0,62, 0
+2, 47880, Note_on_c, 0,62, 95
+2, 47988, Note_off_c, 0,62, 0
+2, 48000, Note_on_c, 0,66, 95
+2, 48216, Note_off_c, 0,66, 0
+2, 48240, Note_on_c, 0,68, 95
+2, 48348, Note_off_c, 0,68, 0
+2, 48360, Note_on_c, 0,68, 95
+2, 48468, Note_off_c, 0,68, 0
+2, 48480, Note_on_c, 0,68, 95
+2, 48696, Note_off_c, 0,68, 0
+2, 48720, Note_on_c, 0,66, 95
+2, 48936, Note_off_c, 0,66, 0
+2, 48960, Note_on_c, 0,63, 95
+2, 49176, Note_off_c, 0,63, 0
+2, 49200, Note_on_c, 0,62, 95
+2, 49308, Note_off_c, 0,62, 0
+2, 49320, Note_on_c, 0,63, 95
+2, 49428, Note_off_c, 0,63, 0
+2, 49440, Note_on_c, 0,63, 95
+2, 49584, Note_off_c, 0,63, 0
+2, 49600, Note_on_c, 0,66, 95
+2, 49744, Note_off_c, 0,66, 0
+2, 49760, Note_on_c, 0,62, 95
+2, 49904, Note_off_c, 0,62, 0
+2, 49920, Note_on_c, 0,62, 95
+2, 50136, Note_off_c, 0,62, 0
+2, 51600, Note_on_c, 0,62, 95
+2, 51816, Note_off_c, 0,62, 0
+2, 51840, Note_on_c, 0,66, 95
+2, 52056, Note_off_c, 0,66, 0
+2, 52080, Note_on_c, 0,68, 95
+2, 52188, Note_off_c, 0,68, 0
+2, 52200, Note_on_c, 0,68, 95
+2, 52308, Note_off_c, 0,68, 0
+2, 52320, Note_on_c, 0,68, 95
+2, 52428, Note_off_c, 0,68, 0
+2, 52440, Note_on_c, 0,68, 95
+2, 52548, Note_off_c, 0,68, 0
+2, 52680, Note_on_c, 0,66, 95
+2, 52788, Note_off_c, 0,66, 0
+2, 52800, Note_on_c, 0,70, 95
+2, 53016, Note_off_c, 0,70, 0
+2, 53040, Note_on_c, 0,68, 95
+2, 53256, Note_off_c, 0,68, 0
+2, 53520, Note_on_c, 0,66, 95
+2, 53736, Note_off_c, 0,66, 0
+2, 53760, Note_on_c, 0,63, 95
+2, 53976, Note_off_c, 0,63, 0
+2, 54000, Note_on_c, 0,62, 95
+2, 54108, Note_off_c, 0,62, 0
+2, 54120, Note_on_c, 0,62, 95
+2, 54228, Note_off_c, 0,62, 0
+2, 54240, Note_on_c, 0,62, 95
+2, 54348, Note_off_c, 0,62, 0
+2, 54360, Note_on_c, 0,62, 95
+2, 54468, Note_off_c, 0,62, 0
+2, 54600, Note_on_c, 0,66, 95
+2, 54708, Note_off_c, 0,66, 0
+2, 54720, Note_on_c, 0,63, 95
+2, 54936, Note_off_c, 0,63, 0
+2, 54960, Note_on_c, 0,62, 95
+2, 55176, Note_off_c, 0,62, 0
+2, 55920, Note_on_c, 0,66, 95
+2, 56028, Note_off_c, 0,66, 0
+2, 56040, Note_on_c, 0,66, 95
+2, 56148, Note_off_c, 0,66, 0
+2, 56160, Note_on_c, 0,66, 95
+2, 56376, Note_off_c, 0,66, 0
+2, 56640, Note_on_c, 0,63, 95
+2, 56856, Note_off_c, 0,63, 0
+2, 56880, Note_on_c, 0,66, 95
+2, 57096, Note_off_c, 0,66, 0
+2, 57120, Note_on_c, 0,63, 95
+2, 57336, Note_off_c, 0,63, 0
+2, 57360, Note_on_c, 0,62, 95
+2, 57576, Note_off_c, 0,62, 0
+2, 57600, Note_on_c, 0,62, 95
+2, 58464, Note_off_c, 0,62, 0
+2, 58800, Note_on_c, 0,62, 95
+2, 59016, Note_off_c, 0,62, 0
+2, 59040, Note_on_c, 0,62, 95
+2, 59256, Note_off_c, 0,62, 0
+2, 59280, Note_on_c, 0,70, 95
+2, 59496, Note_off_c, 0,70, 0
+2, 59520, Note_on_c, 0,70, 95
+2, 60384, Note_off_c, 0,70, 0
+2, 60720, Note_on_c, 0,70, 95
+2, 60936, Note_off_c, 0,70, 0
+2, 60960, Note_on_c, 0,66, 95
+2, 61176, Note_off_c, 0,66, 0
+2, 61200, Note_on_c, 0,68, 95
+2, 61416, Note_off_c, 0,68, 0
+2, 61440, Note_on_c, 0,68, 95
+2, 61656, Note_off_c, 0,68, 0
+2, 61680, Note_on_c, 0,66, 95
+2, 61896, Note_off_c, 0,66, 0
+2, 61920, Note_on_c, 0,63, 95
+2, 62136, Note_off_c, 0,63, 0
+2, 62160, Note_on_c, 0,62, 95
+2, 62376, Note_off_c, 0,62, 0
+2, 63360, Note_on_c, 0,63, 95
+2, 63576, Note_off_c, 0,63, 0
+2, 63600, Note_on_c, 0,63, 95
+2, 63816, Note_off_c, 0,63, 0
+2, 63840, Note_on_c, 0,63, 95
+2, 64056, Note_off_c, 0,63, 0
+2, 64080, Note_on_c, 0,62, 95
+2, 64296, Note_off_c, 0,62, 0
+2, 64320, Note_on_c, 0,63, 95
+2, 64536, Note_off_c, 0,63, 0
+2, 64560, Note_on_c, 0,63, 95
+2, 64776, Note_off_c, 0,63, 0
+2, 64800, Note_on_c, 0,63, 95
+2, 64908, Note_off_c, 0,63, 0
+2, 64920, Note_on_c, 0,62, 95
+2, 65028, Note_off_c, 0,62, 0
+2, 65040, Note_on_c, 0,65, 95
+2, 65256, Note_off_c, 0,65, 0
+2, 65280, Note_on_c, 0,65, 95
+2, 65712, Note_off_c, 0,65, 0
+2, 66240, Note_on_c, 0,65, 95
+2, 66348, Note_off_c, 0,65, 0
+2, 66360, Note_on_c, 0,63, 95
+2, 66468, Note_off_c, 0,63, 0
+2, 66480, Note_on_c, 0,62, 95
+2, 66588, Note_off_c, 0,62, 0
+2, 66600, Note_on_c, 0,63, 95
+2, 66708, Note_off_c, 0,63, 0
+2, 66720, Note_on_c, 0,63, 95
+2, 66864, Note_off_c, 0,63, 0
+2, 66880, Note_on_c, 0,62, 95
+2, 67168, Note_off_c, 0,62, 0
+2, 67200, Note_on_c, 0,62, 95
+2, 68064, Note_off_c, 0,62, 0
+2, 68160, Note_on_c, 0,61, 95
+2, 69024, Note_off_c, 0,61, 0
+2, 69120, Note_on_c, 0,58, 95
+2, 69984, Note_off_c, 0,58, 0
+2, 70080, Note_on_c, 0,65, 95
+2, 70188, Note_off_c, 0,65, 0
+2, 70200, Note_on_c, 0,63, 95
+2, 70308, Note_off_c, 0,63, 0
+2, 70320, Note_on_c, 0,62, 95
+2, 70428, Note_off_c, 0,62, 0
+2, 70440, Note_on_c, 0,63, 95
+2, 70548, Note_off_c, 0,63, 0
+2, 70560, Note_on_c, 0,63, 95
+2, 70704, Note_off_c, 0,63, 0
+2, 70720, Note_on_c, 0,62, 95
+2, 71008, Note_off_c, 0,62, 0
+2, 71520, Note_on_c, 0,66, 95
+2, 71952, Note_off_c, 0,66, 0
+2, 72000, Note_on_c, 0,63, 95
+2, 72432, Note_off_c, 0,63, 0
+2, 72480, Note_on_c, 0,61, 95
+2, 72912, Note_off_c, 0,61, 0
+2, 72960, Note_on_c, 0,62, 95
+2, 73824, Note_off_c, 0,62, 0
+2, 73920, Note_on_c, 0,65, 95
+2, 74028, Note_off_c, 0,65, 0
+2, 74040, Note_on_c, 0,63, 95
+2, 74148, Note_off_c, 0,63, 0
+2, 74160, Note_on_c, 0,62, 95
+2, 74268, Note_off_c, 0,62, 0
+2, 74280, Note_on_c, 0,63, 95
+2, 74388, Note_off_c, 0,63, 0
+2, 74400, Note_on_c, 0,63, 95
+2, 74544, Note_off_c, 0,63, 0
+2, 74560, Note_on_c, 0,62, 95
+2, 74848, Note_off_c, 0,62, 0
+2, 74880, Note_on_c, 0,68, 95
+2, 75312, Note_off_c, 0,68, 0
+2, 75360, Note_on_c, 0,70, 95
+2, 75576, Note_off_c, 0,70, 0
+2, 75600, Note_on_c, 0,68, 95
+2, 75816, Note_off_c, 0,68, 0
+2, 77040, Note_on_c, 0,63, 95
+2, 77256, Note_off_c, 0,63, 0
+2, 77280, Note_on_c, 0,66, 95
+2, 77496, Note_off_c, 0,66, 0
+2, 77760, Note_on_c, 0,65, 95
+2, 77868, Note_off_c, 0,65, 0
+2, 77880, Note_on_c, 0,63, 95
+2, 77988, Note_off_c, 0,63, 0
+2, 78000, Note_on_c, 0,62, 95
+2, 78108, Note_off_c, 0,62, 0
+2, 78120, Note_on_c, 0,63, 95
+2, 78228, Note_off_c, 0,63, 0
+2, 78240, Note_on_c, 0,63, 95
+2, 78384, Note_off_c, 0,63, 0
+2, 78400, Note_on_c, 0,62, 95
+2, 78688, Note_off_c, 0,62, 0
+2, 79200, Note_on_c, 0,66, 95
+2, 80064, Note_off_c, 0,66, 0
+2, 80160, Note_on_c, 0,66, 95
+2, 80268, Note_off_c, 0,66, 0
+2, 80280, Note_on_c, 0,67, 95
+2, 80388, Note_off_c, 0,67, 0
+2, 80400, Note_on_c, 0,66, 95
+2, 80508, Note_off_c, 0,66, 0
+2, 80520, Note_on_c, 0,63, 95
+2, 80628, Note_off_c, 0,63, 0
+2, 80640, Note_on_c, 0,63, 95
+2, 80784, Note_off_c, 0,63, 0
+2, 80800, Note_on_c, 0,62, 95
+2, 81088, Note_off_c, 0,62, 0
+2, 81120, Note_on_c, 0,62, 95
+2, 81552, Note_off_c, 0,62, 0
+2, 82032, End_track
+3, 0, Start_track
+3, 0, Program_c, 1, 0
+3, 0, Instrument_name_t, "MIDI Instrument"
+3, 9600, Note_on_c, 1,51, 95
+3, 9816, Note_off_c, 1,51, 0
+3, 9840, Note_on_c, 1,55, 95
+3, 10056, Note_off_c, 1,55, 0
+3, 10080, Note_on_c, 1,55, 95
+3, 10296, Note_off_c, 1,55, 0
+3, 10320, Note_on_c, 1,51, 95
+3, 10536, Note_off_c, 1,51, 0
+3, 10560, Note_on_c, 1,56, 95
+3, 10776, Note_off_c, 1,56, 0
+3, 10800, Note_on_c, 1,55, 95
+3, 11016, Note_off_c, 1,55, 0
+3, 11040, Note_on_c, 1,51, 95
+3, 11256, Note_off_c, 1,51, 0
+3, 11280, Note_on_c, 1,50, 95
+3, 11496, Note_off_c, 1,50, 0
+3, 11520, Note_on_c, 1,50, 95
+3, 11736, Note_off_c, 1,50, 0
+3, 11760, Note_on_c, 1,48, 95
+3, 11976, Note_off_c, 1,48, 0
+3, 12000, Note_on_c, 1,51, 95
+3, 12216, Note_off_c, 1,51, 0
+3, 12240, Note_on_c, 1,50, 95
+3, 12456, Note_off_c, 1,50, 0
+3, 13080, Note_on_c, 1,48, 95
+3, 13188, Note_off_c, 1,48, 0
+3, 13200, Note_on_c, 1,48, 95
+3, 13308, Note_off_c, 1,48, 0
+3, 13320, Note_on_c, 1,50, 95
+3, 13428, Note_off_c, 1,50, 0
+3, 13440, Note_on_c, 1,51, 95
+3, 13656, Note_off_c, 1,51, 0
+3, 13680, Note_on_c, 1,55, 95
+3, 13896, Note_off_c, 1,55, 0
+3, 13920, Note_on_c, 1,55, 95
+3, 14136, Note_off_c, 1,55, 0
+3, 14160, Note_on_c, 1,51, 95
+3, 14376, Note_off_c, 1,51, 0
+3, 14400, Note_on_c, 1,56, 95
+3, 14616, Note_off_c, 1,56, 0
+3, 14640, Note_on_c, 1,55, 95
+3, 14856, Note_off_c, 1,55, 0
+3, 15120, Note_on_c, 1,50, 95
+3, 15336, Note_off_c, 1,50, 0
+3, 15360, Note_on_c, 1,50, 95
+3, 15576, Note_off_c, 1,50, 0
+3, 15600, Note_on_c, 1,48, 95
+3, 15816, Note_off_c, 1,48, 0
+3, 15840, Note_on_c, 1,51, 95
+3, 16056, Note_off_c, 1,51, 0
+3, 16080, Note_on_c, 1,50, 95
+3, 16296, Note_off_c, 1,50, 0
+3, 17520, Note_on_c, 1,56, 95
+3, 17736, Note_off_c, 1,56, 0
+3, 17760, Note_on_c, 1,58, 95
+3, 17976, Note_off_c, 1,58, 0
+3, 18000, Note_on_c, 1,60, 95
+3, 18216, Note_off_c, 1,60, 0
+3, 18240, Note_on_c, 1,60, 95
+3, 18456, Note_off_c, 1,60, 0
+3, 18480, Note_on_c, 1,56, 95
+3, 18696, Note_off_c, 1,56, 0
+3, 18720, Note_on_c, 1,51, 95
+3, 18936, Note_off_c, 1,51, 0
+3, 18960, Note_on_c, 1,56, 95
+3, 19176, Note_off_c, 1,56, 0
+3, 19200, Note_on_c, 1,56, 95
+3, 19488, Note_off_c, 1,56, 0
+3, 19520, Note_on_c, 1,55, 95
+3, 20096, Note_off_c, 1,55, 0
+3, 20760, Note_on_c, 1,55, 95
+3, 20868, Note_off_c, 1,55, 0
+3, 20880, Note_on_c, 1,55, 95
+3, 21096, Note_off_c, 1,55, 0
+3, 21120, Note_on_c, 1,54, 95
+3, 21228, Note_off_c, 1,54, 0
+3, 21240, Note_on_c, 1,54, 95
+3, 21348, Note_off_c, 1,54, 0
+3, 21360, Note_on_c, 1,54, 95
+3, 21576, Note_off_c, 1,54, 0
+3, 21600, Note_on_c, 1,54, 95
+3, 21816, Note_off_c, 1,54, 0
+3, 21840, Note_on_c, 1,54, 95
+3, 22056, Note_off_c, 1,54, 0
+3, 22080, Note_on_c, 1,54, 95
+3, 22188, Note_off_c, 1,54, 0
+3, 22200, Note_on_c, 1,54, 95
+3, 22308, Note_off_c, 1,54, 0
+3, 22320, Note_on_c, 1,54, 95
+3, 22536, Note_off_c, 1,54, 0
+3, 22560, Note_on_c, 1,54, 95
+3, 22776, Note_off_c, 1,54, 0
+3, 22800, Note_on_c, 1,54, 95
+3, 23016, Note_off_c, 1,54, 0
+3, 23040, Note_on_c, 1,53, 95
+3, 23256, Note_off_c, 1,53, 0
+3, 24000, Note_on_c, 1,51, 95
+3, 24108, Note_off_c, 1,51, 0
+3, 24120, Note_on_c, 1,50, 95
+3, 24228, Note_off_c, 1,50, 0
+3, 24240, Note_on_c, 1,48, 95
+3, 24348, Note_off_c, 1,48, 0
+3, 24360, Note_on_c, 1,50, 95
+3, 24468, Note_off_c, 1,50, 0
+3, 24480, Note_on_c, 1,50, 95
+3, 24624, Note_off_c, 1,50, 0
+3, 24640, Note_on_c, 1,48, 95
+3, 24928, Note_off_c, 1,48, 0
+3, 24960, Note_on_c, 1,60, 95
+3, 25824, Note_off_c, 1,60, 0
+3, 25920, Note_on_c, 1,58, 95
+3, 26784, Note_off_c, 1,58, 0
+3, 26880, Note_on_c, 1,56, 95
+3, 27744, Note_off_c, 1,56, 0
+3, 27840, Note_on_c, 1,51, 95
+3, 27948, Note_off_c, 1,51, 0
+3, 27960, Note_on_c, 1,50, 95
+3, 28068, Note_off_c, 1,50, 0
+3, 28080, Note_on_c, 1,48, 95
+3, 28188, Note_off_c, 1,48, 0
+3, 28200, Note_on_c, 1,50, 95
+3, 28308, Note_off_c, 1,50, 0
+3, 28320, Note_on_c, 1,50, 95
+3, 28464, Note_off_c, 1,50, 0
+3, 28480, Note_on_c, 1,48, 95
+3, 28768, Note_off_c, 1,48, 0
+3, 29280, Note_on_c, 1,62, 95
+3, 30144, Note_off_c, 1,62, 0
+3, 30240, Note_on_c, 1,58, 95
+3, 30672, Note_off_c, 1,58, 0
+3, 30720, Note_on_c, 1,60, 95
+3, 31584, Note_off_c, 1,60, 0
+3, 31680, Note_on_c, 1,51, 95
+3, 31788, Note_off_c, 1,51, 0
+3, 31800, Note_on_c, 1,50, 95
+3, 31908, Note_off_c, 1,50, 0
+3, 31920, Note_on_c, 1,48, 95
+3, 32028, Note_off_c, 1,48, 0
+3, 32040, Note_on_c, 1,50, 95
+3, 32148, Note_off_c, 1,50, 0
+3, 32160, Note_on_c, 1,50, 95
+3, 32304, Note_off_c, 1,50, 0
+3, 32320, Note_on_c, 1,48, 95
+3, 32608, Note_off_c, 1,48, 0
+3, 32640, Note_on_c, 1,55, 95
+3, 33072, Note_off_c, 1,55, 0
+3, 33840, Note_on_c, 1,56, 95
+3, 34056, Note_off_c, 1,56, 0
+3, 34080, Note_on_c, 1,55, 95
+3, 34296, Note_off_c, 1,55, 0
+3, 34800, Note_on_c, 1,56, 95
+3, 35016, Note_off_c, 1,56, 0
+3, 35040, Note_on_c, 1,60, 95
+3, 35256, Note_off_c, 1,60, 0
+3, 35520, Note_on_c, 1,51, 95
+3, 35628, Note_off_c, 1,51, 0
+3, 35640, Note_on_c, 1,50, 95
+3, 35748, Note_off_c, 1,50, 0
+3, 35760, Note_on_c, 1,48, 95
+3, 35868, Note_off_c, 1,48, 0
+3, 35880, Note_on_c, 1,50, 95
+3, 35988, Note_off_c, 1,50, 0
+3, 36000, Note_on_c, 1,50, 95
+3, 36144, Note_off_c, 1,50, 0
+3, 36160, Note_on_c, 1,48, 95
+3, 36448, Note_off_c, 1,48, 0
+3, 36480, Note_on_c, 1,43, 95
+3, 38304, Note_off_c, 1,43, 0
+3, 43800, Note_on_c, 1,50, 95
+3, 43908, Note_off_c, 1,50, 0
+3, 43920, Note_on_c, 1,50, 95
+3, 44028, Note_off_c, 1,50, 0
+3, 44040, Note_on_c, 1,51, 95
+3, 44148, Note_off_c, 1,51, 0
+3, 44160, Note_on_c, 1,54, 95
+3, 44376, Note_off_c, 1,54, 0
+3, 44400, Note_on_c, 1,56, 95
+3, 44616, Note_off_c, 1,56, 0
+3, 44880, Note_on_c, 1,50, 95
+3, 45096, Note_off_c, 1,50, 0
+3, 45120, Note_on_c, 1,51, 95
+3, 45228, Note_off_c, 1,51, 0
+3, 45240, Note_on_c, 1,51, 95
+3, 45348, Note_off_c, 1,51, 0
+3, 45360, Note_on_c, 1,50, 95
+3, 45468, Note_off_c, 1,50, 0
+3, 45480, Note_on_c, 1,51, 95
+3, 45588, Note_off_c, 1,51, 0
+3, 45600, Note_on_c, 1,51, 95
+3, 45744, Note_off_c, 1,51, 0
+3, 45760, Note_on_c, 1,54, 95
+3, 46048, Note_off_c, 1,54, 0
+3, 48720, Note_on_c, 1,56, 95
+3, 48936, Note_off_c, 1,56, 0
+3, 48960, Note_on_c, 1,55, 95
+3, 49176, Note_off_c, 1,55, 0
+3, 49200, Note_on_c, 1,54, 95
+3, 49308, Note_off_c, 1,54, 0
+3, 49320, Note_on_c, 1,55, 95
+3, 49428, Note_off_c, 1,55, 0
+3, 49440, Note_on_c, 1,55, 95
+3, 49584, Note_off_c, 1,55, 0
+3, 49600, Note_on_c, 1,56, 95
+3, 49744, Note_off_c, 1,56, 0
+3, 49760, Note_on_c, 1,58, 95
+3, 49904, Note_off_c, 1,58, 0
+3, 49920, Note_on_c, 1,58, 95
+3, 50136, Note_off_c, 1,58, 0
+3, 51600, Note_on_c, 1,50, 95
+3, 51816, Note_off_c, 1,50, 0
+3, 51840, Note_on_c, 1,54, 95
+3, 52056, Note_off_c, 1,54, 0
+3, 52080, Note_on_c, 1,56, 95
+3, 52188, Note_off_c, 1,56, 0
+3, 52200, Note_on_c, 1,56, 95
+3, 52308, Note_off_c, 1,56, 0
+3, 52320, Note_on_c, 1,56, 95
+3, 52428, Note_off_c, 1,56, 0
+3, 52440, Note_on_c, 1,56, 95
+3, 52548, Note_off_c, 1,56, 0
+3, 52680, Note_on_c, 1,54, 95
+3, 52788, Note_off_c, 1,54, 0
+3, 52800, Note_on_c, 1,58, 95
+3, 53016, Note_off_c, 1,58, 0
+3, 53040, Note_on_c, 1,56, 95
+3, 53256, Note_off_c, 1,56, 0
+3, 53520, Note_on_c, 1,54, 95
+3, 53736, Note_off_c, 1,54, 0
+3, 53760, Note_on_c, 1,51, 95
+3, 53976, Note_off_c, 1,51, 0
+3, 54000, Note_on_c, 1,50, 95
+3, 54108, Note_off_c, 1,50, 0
+3, 54120, Note_on_c, 1,50, 95
+3, 54228, Note_off_c, 1,50, 0
+3, 54240, Note_on_c, 1,50, 95
+3, 54348, Note_off_c, 1,50, 0
+3, 54360, Note_on_c, 1,50, 95
+3, 54468, Note_off_c, 1,50, 0
+3, 54600, Note_on_c, 1,54, 95
+3, 54708, Note_off_c, 1,54, 0
+3, 54720, Note_on_c, 1,51, 95
+3, 54936, Note_off_c, 1,51, 0
+3, 54960, Note_on_c, 1,50, 95
+3, 55176, Note_off_c, 1,50, 0
+3, 55680, Note_on_c, 1,54, 95
+3, 55896, Note_off_c, 1,54, 0
+3, 56400, Note_on_c, 1,54, 95
+3, 56616, Note_off_c, 1,54, 0
+3, 56880, Note_on_c, 1,54, 95
+3, 57096, Note_off_c, 1,54, 0
+3, 57120, Note_on_c, 1,51, 95
+3, 57336, Note_off_c, 1,51, 0
+3, 57360, Note_on_c, 1,58, 95
+3, 57576, Note_off_c, 1,58, 0
+3, 57600, Note_on_c, 1,58, 95
+3, 58464, Note_off_c, 1,58, 0
+3, 59760, Note_on_c, 1,58, 95
+3, 59976, Note_off_c, 1,58, 0
+3, 60000, Note_on_c, 1,61, 95
+3, 60216, Note_off_c, 1,61, 0
+3, 60240, Note_on_c, 1,62, 95
+3, 60456, Note_off_c, 1,62, 0
+3, 60480, Note_on_c, 1,62, 95
+3, 60696, Note_off_c, 1,62, 0
+3, 60720, Note_on_c, 1,54, 95
+3, 60936, Note_off_c, 1,54, 0
+3, 60960, Note_on_c, 1,56, 95
+3, 61176, Note_off_c, 1,56, 0
+3, 61200, Note_on_c, 1,62, 95
+3, 61416, Note_off_c, 1,62, 0
+3, 61440, Note_on_c, 1,62, 95
+3, 61656, Note_off_c, 1,62, 0
+3, 61680, Note_on_c, 1,56, 95
+3, 61896, Note_off_c, 1,56, 0
+3, 61920, Note_on_c, 1,55, 95
+3, 62136, Note_off_c, 1,55, 0
+3, 62160, Note_on_c, 1,54, 95
+3, 62376, Note_off_c, 1,54, 0
+3, 63360, Note_on_c, 1,56, 95
+3, 63576, Note_off_c, 1,56, 0
+3, 63600, Note_on_c, 1,56, 95
+3, 63816, Note_off_c, 1,56, 0
+3, 63840, Note_on_c, 1,56, 95
+3, 64056, Note_off_c, 1,56, 0
+3, 64080, Note_on_c, 1,56, 95
+3, 64296, Note_off_c, 1,56, 0
+3, 64320, Note_on_c, 1,56, 95
+3, 64536, Note_off_c, 1,56, 0
+3, 64560, Note_on_c, 1,56, 95
+3, 64776, Note_off_c, 1,56, 0
+3, 64800, Note_on_c, 1,56, 95
+3, 64908, Note_off_c, 1,56, 0
+3, 64920, Note_on_c, 1,56, 95
+3, 65028, Note_off_c, 1,56, 0
+3, 65040, Note_on_c, 1,55, 95
+3, 65256, Note_off_c, 1,55, 0
+3, 65280, Note_on_c, 1,55, 95
+3, 65712, Note_off_c, 1,55, 0
+3, 66240, Note_on_c, 1,53, 95
+3, 66348, Note_off_c, 1,53, 0
+3, 66360, Note_on_c, 1,51, 95
+3, 66468, Note_off_c, 1,51, 0
+3, 66480, Note_on_c, 1,50, 95
+3, 66588, Note_off_c, 1,50, 0
+3, 66600, Note_on_c, 1,51, 95
+3, 66708, Note_off_c, 1,51, 0
+3, 66720, Note_on_c, 1,51, 95
+3, 66864, Note_off_c, 1,51, 0
+3, 66880, Note_on_c, 1,50, 95
+3, 67168, Note_off_c, 1,50, 0
+3, 67200, Note_on_c, 1,62, 95
+3, 68064, Note_off_c, 1,62, 0
+3, 68160, Note_on_c, 1,61, 95
+3, 69024, Note_off_c, 1,61, 0
+3, 69120, Note_on_c, 1,58, 95
+3, 69984, Note_off_c, 1,58, 0
+3, 70080, Note_on_c, 1,53, 95
+3, 70188, Note_off_c, 1,53, 0
+3, 70200, Note_on_c, 1,51, 95
+3, 70308, Note_off_c, 1,51, 0
+3, 70320, Note_on_c, 1,50, 95
+3, 70428, Note_off_c, 1,50, 0
+3, 70440, Note_on_c, 1,51, 95
+3, 70548, Note_off_c, 1,51, 0
+3, 70560, Note_on_c, 1,51, 95
+3, 70704, Note_off_c, 1,51, 0
+3, 70720, Note_on_c, 1,50, 95
+3, 71008, Note_off_c, 1,50, 0
+3, 71520, Note_on_c, 1,66, 95
+3, 71952, Note_off_c, 1,66, 0
+3, 72000, Note_on_c, 1,63, 95
+3, 72432, Note_off_c, 1,63, 0
+3, 72480, Note_on_c, 1,61, 95
+3, 72912, Note_off_c, 1,61, 0
+3, 72960, Note_on_c, 1,62, 95
+3, 73824, Note_off_c, 1,62, 0
+3, 73920, Note_on_c, 1,53, 95
+3, 74028, Note_off_c, 1,53, 0
+3, 74040, Note_on_c, 1,51, 95
+3, 74148, Note_off_c, 1,51, 0
+3, 74160, Note_on_c, 1,50, 95
+3, 74268, Note_off_c, 1,50, 0
+3, 74280, Note_on_c, 1,51, 95
+3, 74388, Note_off_c, 1,51, 0
+3, 74400, Note_on_c, 1,51, 95
+3, 74544, Note_off_c, 1,51, 0
+3, 74560, Note_on_c, 1,50, 95
+3, 74848, Note_off_c, 1,50, 0
+3, 74880, Note_on_c, 1,56, 95
+3, 75312, Note_off_c, 1,56, 0
+3, 76080, Note_on_c, 1,58, 95
+3, 76296, Note_off_c, 1,58, 0
+3, 76320, Note_on_c, 1,56, 95
+3, 76536, Note_off_c, 1,56, 0
+3, 77040, Note_on_c, 1,63, 95
+3, 77256, Note_off_c, 1,63, 0
+3, 77280, Note_on_c, 1,66, 95
+3, 77496, Note_off_c, 1,66, 0
+3, 77760, Note_on_c, 1,53, 95
+3, 77868, Note_off_c, 1,53, 0
+3, 77880, Note_on_c, 1,51, 95
+3, 77988, Note_off_c, 1,51, 0
+3, 78000, Note_on_c, 1,50, 95
+3, 78108, Note_off_c, 1,50, 0
+3, 78120, Note_on_c, 1,51, 95
+3, 78228, Note_off_c, 1,51, 0
+3, 78240, Note_on_c, 1,51, 95
+3, 78384, Note_off_c, 1,51, 0
+3, 78400, Note_on_c, 1,50, 95
+3, 78688, Note_off_c, 1,50, 0
+3, 78720, Note_on_c, 1,50, 95
+3, 80544, Note_off_c, 1,50, 0
+3, 81024, End_track
 0, 0, End_of_file

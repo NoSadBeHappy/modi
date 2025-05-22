@@ -24,16 +24,6 @@ csv_midi = pm.midi_to_csv("example.mid")
 # Convert csv_midi list of strings to list of lists
 list_csv_midi = list(csv.reader(io.StringIO(''.join(csv_midi))))
 
-# Save the CSV (optional)
-csv_string_list = [",".join(line) + "\n" for line in list_csv_midi]
-with open("example.csv", "w") as f:
-    f.writelines(csv_string_list)
-
-# Convert back to MIDI and save
-midi_object = pm.csv_to_midi(csv_string_list)
-with open("example_output.mid", "wb") as output_file:
-    pm.FileWriter(output_file).write(midi_object)
-
 # Parse all key signature changes
 key_changes = []  # List of (tick, key_signature)
 
